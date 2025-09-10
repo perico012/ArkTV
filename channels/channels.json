@@ -81,15 +81,8 @@
     {"name": "MYX Global", "url": "https://ott.m3u8.nathcreqtives.com/myxglobal/manifest.m3u8"},
     {"name": "MTV 90s", "url": "https://ott.m3u8.nathcreqtives.com/mtv90s/stream/manifest.m3u8"},
     {"name": "Mindanow Network", "url": "https://streams1.comclark.com/overlay/mindanow/chunks.m3u8"},
-    [
-  {
-    "name": "ESPN HD",
-    "url": "http://popzed.sbs:80/live/902374794/430646183/2de0e4cd-fe77-4da3-ab2d-30c54edd74e6.m3u8"
-  },
-  {
-    "name": "ESPN 2 HD",
-    "url": "http://popzed.sbs:80/live/902374794/430646183/5b9b8169-875b-48f6-a2e2-256d5ac1ffa7.m3u8"
-  },
+    {"name": "ESPN HD","url": "http://popzed.sbs:80/live/902374794/430646183/2de0e4cd-fe77-4da3-ab2d-30c54edd74e6.m3u8"},
+    {"name": "ESPN 2 HD","url": "http://popzed.sbs:80/live/902374794/430646183/5b9b8169-875b-48f6-a2e2-256d5ac1ffa7.m3u8"},
   {
     "name": "ESPN 2 HD²",
     "url": "http://popzed.sbs:80/live/902374794/430646183/4ebcb5a3-b288-4e18-b2db-0d50b6aefd9a.m3u8"
@@ -3675,4 +3668,4 @@
     "url": "http://popzed.sbs:80/live/902374794/430646183/3a504e09-d4ab-4a1c-8094-5f5ec14a69ec.m3u8"
   }
 ]
-   ]
+   
