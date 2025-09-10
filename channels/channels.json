@@ -80,5 +80,3599 @@
     {"name": "Animexdive", "url": "https://ott.m3u8.nathcreqtives.com/animexdive/stream/manifest.m3u8"},
     {"name": "MYX Global", "url": "https://ott.m3u8.nathcreqtives.com/myxglobal/manifest.m3u8"},
     {"name": "MTV 90s", "url": "https://ott.m3u8.nathcreqtives.com/mtv90s/stream/manifest.m3u8"},
-    {"name": "Mindanow Network", "url": "https://streams1.comclark.com/overlay/mindanow/chunks.m3u8"}
+    {"name": "Mindanow Network", "url": "https://streams1.comclark.com/overlay/mindanow/chunks.m3u8"},
+    [
+  {
+    "name": "ESPN HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2de0e4cd-fe77-4da3-ab2d-30c54edd74e6.m3u8"
+  },
+  {
+    "name": "ESPN 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5b9b8169-875b-48f6-a2e2-256d5ac1ffa7.m3u8"
+  },
+  {
+    "name": "ESPN 2 HD²",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4ebcb5a3-b288-4e18-b2db-0d50b6aefd9a.m3u8"
+  },
+  {
+    "name": "ESPN 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2650b225-d16e-4476-9d2f-5a01e495487f.m3u8"
+  },
+  {
+    "name": "ESPN 3 HD²",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a20aab7c-cc2e-4d89-b71b-d580c9951e7b.m3u8"
+  },
+  {
+    "name": "ESPN 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4b15464c-dbdc-420b-ab9f-34e5ff3ac1a8.m3u8"
+  },
+  {
+    "name": "ESPN 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2fc44138-7936-4fe2-88b9-8f1d58cfd0ff.m3u8"
+  },
+  {
+    "name": "ESPN 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a46986eb-85b9-44bf-9db6-e436da8f6a26.m3u8"
+  },
+  {
+    "name": "ESPN 6 HD²",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/349c4ac4-0433-407f-bea4-50a79ad0c5a8.m3u8"
+  },
+  {
+    "name": "Sportv HD²",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/922cc8ac-7d04-4d25-8f4f-6936b310cb76.m3u8"
+  },
+  {
+    "name": "Sportv HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b5532753-3c7d-4246-92f8-0b99081fd9f6.m3u8"
+  },
+  {
+    "name": "Sportv 2 HD²",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/904efe6c-248e-4206-92a9-519a778d32b1.m3u8"
+  },
+  {
+    "name": "Sportv 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d1f59d90-2839-439f-9487-4b737db038c9.m3u8"
+  },
+  {
+    "name": "Sportv 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/75be6c73-4978-410f-8617-4c4919f78b18.m3u8"
+  },
+  {
+    "name": "Sportv 3 HD²",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b33969ac-387f-47ca-ad28-0bb0113387f8.m3u8"
+  },
+  {
+    "name": "Sportv 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/42cebce6-53e3-449f-9ab1-5ed24d99275a.m3u8"
+  },
+  {
+    "name": "Premiere Clubes HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e8ddf234-e61e-4998-b9ef-ecbd4244c7e8.m3u8"
+  },
+  {
+    "name": "Premiere Clubes HD²",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/dcfb0610-4be0-4fd0-86ab-64b8bdf02926.m3u8"
+  },
+  {
+    "name": "Premiere 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8649b186-4caa-45b2-a728-4a843710ce12.m3u8"
+  },
+  {
+    "name": "Premiere 2 HD²",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/acdf167f-c436-4147-af31-5d271f5317ce.m3u8"
+  },
+  {
+    "name": "Premiere 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0ae0b2b6-4ee0-4c38-84bf-b04266c63aaa.m3u8"
+  },
+  {
+    "name": "Premiere 3 HD²",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ef51974e-cbe0-4d16-a977-8e5eb011ce5d.m3u8"
+  },
+  {
+    "name": "Premiere 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/58206b8d-ea50-4a49-9117-108371d65c0f.m3u8"
+  },
+  {
+    "name": "Premiere 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/106273e1-6793-4800-8642-89e03413353a.m3u8"
+  },
+  {
+    "name": "Premiere 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/092ae843-6a24-44ed-ad11-2802694eee6a.m3u8"
+  },
+  {
+    "name": "Premiere 7 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7a0ef499-34b6-4740-bda6-b00d2f1e2b61.m3u8"
+  },
+  {
+    "name": "Premiere 8 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9544088f-f6f6-4f69-811a-01b83a130fec.m3u8"
+  },
+  {
+    "name": "Combate HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0f07110c-5404-47a9-80e9-12b0e632afff.m3u8"
+  },
+  {
+    "name": "Prime Video 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/90e44c86-b72f-41ad-be22-5f24ef5435e0.m3u8"
+  },
+  {
+    "name": "Prime Video 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c599691b-23b8-4d1e-af54-9a3fc46797c9.m3u8"
+  },
+  {
+    "name": "Prime Video 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3b248bce-f028-478f-928d-c0db6caeffc6.m3u8"
+  },
+  {
+    "name": "Prime Video 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/063f7d71-51bc-4835-ab55-76f39d79532d.m3u8"
+  },
+  {
+    "name": "Prime Video 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a6edb812-5a99-4cdc-9469-07b87406bf96.m3u8"
+  },
+  {
+    "name": "Prime Video 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ad525a36-f6e0-48bb-bee1-c5e23d4f14f5.m3u8"
+  },
+  {
+    "name": "Prime Video 7 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/75750b72-b98c-49e1-92f1-475710440a74.m3u8"
+  },
+  {
+    "name": "Prime Video 8 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3c67b7aa-f2a0-4eef-918b-f2f3dbc9e8fb.m3u8"
+  },
+  {
+    "name": "BJJ Stars",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d9a73bbb-9b1b-48d9-8ae1-80216946a129.m3u8"
+  },
+  {
+    "name": "Brtvmax HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/17d921b2-d446-4e89-b613-159d2daaff50.m3u8"
+  },
+  {
+    "name": "Cazé TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2b2d97c7-13d8-4c28-813a-c93be421b624.m3u8"
+  },
+  {
+    "name": "Cazé TV 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fe0a7f96-16bb-4b4a-a791-ba7556423bef.m3u8"
+  },
+  {
+    "name": "Cazé TV 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a2e7ce62-b26f-4d8d-aa65-550bed44f535.m3u8"
+  },
+  {
+    "name": "Xsports HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/559a68b7-74f5-45b5-9b5d-3280e1ae8520.m3u8"
+  },
+  {
+    "name": "Dazn 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d355ae42-8649-4738-9e11-7b090751a0fe.m3u8"
+  },
+  {
+    "name": "Dazn 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/859a6ca7-71b0-4868-b828-81768bab19a2.m3u8"
+  },
+  {
+    "name": "Dazn 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4994dcef-45f0-49c5-8be5-57d748fce2e3.m3u8"
+  },
+  {
+    "name": "Dazn 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e6bedfe1-3ab7-4e9f-9aae-ff494c16632d.m3u8"
+  },
+  {
+    "name": "Dazn 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/050fcb5f-2c60-4bbd-b611-c76f98687404.m3u8"
+  },
+  {
+    "name": "Dazn 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8076c3ba-8dbf-4f9e-9a36-ecb0f297f93e.m3u8"
+  },
+  {
+    "name": "Dazn 7 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1965f9e8-262c-4cbe-b803-d29327e241f5.m3u8"
+  },
+  {
+    "name": "Dazn 8 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/75188898-bb67-420f-8280-533fd0521eea.m3u8"
+  },
+  {
+    "name": "Desimpedidos 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/828efa6d-bb6c-4c50-ab01-48d31d7d1c9d.m3u8"
+  },
+  {
+    "name": "Disney+ 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b82e32fd-50f5-47c1-9084-d4fe35955e5e.m3u8"
+  },
+  {
+    "name": "Disney+ 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3b082dc1-6652-42ef-b566-dd9f0d966fc9.m3u8"
+  },
+  {
+    "name": "Disney+ 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/470b546d-1633-4a06-871b-d5e6ae613917.m3u8"
+  },
+  {
+    "name": "Disney+ 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/042fb5d1-04e8-4a5e-9002-4cc068798e7a.m3u8"
+  },
+  {
+    "name": "Disney+ 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bd377aa6-a535-4caa-9047-e65585f593b1.m3u8"
+  },
+  {
+    "name": "Disney+ 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/06a7b5f5-22ff-43e8-96e2-c790ba476467.m3u8"
+  },
+  {
+    "name": "Disney+ 7 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5852c877-8e22-42c8-beab-aa597163bd5a.m3u8"
+  },
+  {
+    "name": "Disney+ 8 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d41c5a58-cb9d-483e-ad9f-98d4da2975aa.m3u8"
+  },
+  {
+    "name": "Eventos Extras HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4d24b3e5-52ec-4826-829e-8d183d80551d.m3u8"
+  },
+  {
+    "name": "F1 TV Pro HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7f119d9f-ca03-452a-8325-40182b10f9d8.m3u8"
+  },
+  {
+    "name": "FLA TV",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ebfa856b-0382-4146-8d32-1ccf8eaf31da.m3u8"
+  },
+  {
+    "name": "Furacão TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5e08b98f-d9d8-491b-b4a1-a75272c106ee.m3u8"
+  },
+  {
+    "name": "GE Fast HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2892f1f1-60d4-4cfe-8b47-c4634d4a4716.m3u8"
+  },
+  {
+    "name": "Canal Goat 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5133cb98-dccf-4f5b-a9d0-99f3f847d9c4.m3u8"
+  },
+  {
+    "name": "Canal Goat 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c9351afc-59a3-4c39-912d-47be0bc49916.m3u8"
+  },
+  {
+    "name": "Max 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/34e76cf6-57f3-4ae5-bef4-d7a7c1fa863d.m3u8"
+  },
+  {
+    "name": "Max 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/77b0bd41-d892-4a48-b12c-967533908ff1.m3u8"
+  },
+  {
+    "name": "Max 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fdf79286-5163-4bd8-903b-918f7d3a5386.m3u8"
+  },
+  {
+    "name": "Max 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/53effd40-33c9-4c5d-b389-1dd80fbea214.m3u8"
+  },
+  {
+    "name": "Max 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/accd1170-3ebb-47fb-aa78-4f170a491b0d.m3u8"
+  },
+  {
+    "name": "Max 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/00b4d2cd-6fd3-4573-82ee-3c55c9a7c884.m3u8"
+  },
+  {
+    "name": "Max 7 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d5ad7d97-b7b1-4a0f-8fd2-44dde8df6c3c.m3u8"
+  },
+  {
+    "name": "Max 8 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/26cad508-61a9-43e3-87b5-656159cd5413.m3u8"
+  },
+  {
+    "name": "Max A",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7e4bc7ab-e53d-4155-a246-99c61ab8a00b.m3u8"
+  },
+  {
+    "name": "Max  B",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c8232524-5149-41cd-ae7e-8273f16b177d.m3u8"
+  },
+  {
+    "name": "Max  C",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fc67a073-69cb-456d-b384-dcdefe5e3bee.m3u8"
+  },
+  {
+    "name": "Max  D",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bd3099ea-1639-4b72-8476-10fdb385f41c.m3u8"
+  },
+  {
+    "name": "Max  E",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fe5d1360-3869-44b4-b7ef-ff10e84dd5f6.m3u8"
+  },
+  {
+    "name": "Max  F",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ed198504-c1ef-408e-943f-19d18d053c40.m3u8"
+  },
+  {
+    "name": "Max  G",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e27b133f-8ecd-40bb-8d02-314bd8552c1a.m3u8"
+  },
+  {
+    "name": "SportyNet 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6ca3e65e-8732-4bf2-b5ce-ab141c678d53.m3u8"
+  },
+  {
+    "name": "SportyNet 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a4b062cf-0cd3-4abd-b346-c266989a877d.m3u8"
+  },
+  {
+    "name": "SportyNet 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/622eb611-54f4-4036-99b1-838c10011e9b.m3u8"
+  },
+  {
+    "name": "SportyNet 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/db724f14-5d91-4195-bbf7-b942493ae0b1.m3u8"
+  },
+  {
+    "name": "Onefootball 1",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/08a7b2df-5d4c-47ad-ade5-10af0e4aef62.m3u8"
+  },
+  {
+    "name": "Onefootball 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/27e0f514-3167-4db6-ab3b-f82e023dc87a.m3u8"
+  },
+  {
+    "name": "Onefootball  2",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/54f7832c-c7e8-4176-aed0-3eed3f42f742.m3u8"
+  },
+  {
+    "name": "Onefootball 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a991f6cb-1443-44bc-a5a4-a97828e0b977.m3u8"
+  },
+  {
+    "name": "Onefootball 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cfc2b31c-0feb-4598-ab26-c1a2738ed275.m3u8"
+  },
+  {
+    "name": "Onefootball 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a38d619e-e015-47ce-a5f1-d37cdfea8138.m3u8"
+  },
+  {
+    "name": "Onefootball 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/88e8e558-6d33-4b50-bf11-1ef3a1973a66.m3u8"
+  },
+  {
+    "name": "Onefootball 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a4e3e074-b8cd-4f96-b65e-ed962aa89433.m3u8"
+  },
+  {
+    "name": "Paramount + 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b7ed3657-4fb0-46fb-8478-c4ee62676448.m3u8"
+  },
+  {
+    "name": "Paramount + 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/797287fa-b8b0-4796-a614-730f9c710e57.m3u8"
+  },
+  {
+    "name": "Paramount + 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/57b8de19-80c9-4a6f-8501-c75ce540e56b.m3u8"
+  },
+  {
+    "name": "Paramount + 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ab32b575-112e-4ec0-b512-8631ee104106.m3u8"
+  },
+  {
+    "name": "Prime Esportes 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fcf368c2-f585-4ad1-a34b-537f85b3915d.m3u8"
+  },
+  {
+    "name": "Prime Esportes 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/41923ba4-8ff0-41ec-99c7-5a8b4ead509c.m3u8"
+  },
+  {
+    "name": "Prime Esportes 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/81f687c1-b8a9-4b81-b65d-07d274f40b21.m3u8"
+  },
+  {
+    "name": "Prime Esportes 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d61e49dd-9403-4761-a77e-020406df9a01.m3u8"
+  },
+  {
+    "name": "Prime Esportes 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/898497a6-8341-49f1-9658-02a580897133.m3u8"
+  },
+  {
+    "name": "Prime Esportes 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/09b33f85-95db-4408-b4eb-416c80bc641d.m3u8"
+  },
+  {
+    "name": "Prime Esportes 7 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bac7b020-7c58-46a4-8da1-1820737cae0d.m3u8"
+  },
+  {
+    "name": "Prime Esportes 8 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/16a6bcad-2bd2-4827-a2b9-99da97bd0b7e.m3u8"
+  },
+  {
+    "name": "TV NSports 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/69825290-d9be-42c2-be22-2af2929b71f7.m3u8"
+  },
+  {
+    "name": "TV NSports 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bbeebb9e-4d15-4b45-a10a-d6d29f6088b9.m3u8"
+  },
+  {
+    "name": "TV NSports 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/47ec33a4-80fd-4254-b761-6c9d610cee35.m3u8"
+  },
+  {
+    "name": "TV NSports 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a00a8e65-bb0a-4fc6-a82e-0493969c22c1.m3u8"
+  },
+  {
+    "name": "UFC Fight Pass HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/409c165e-1210-44d9-8271-79430d3a7489.m3u8"
+  },
+  {
+    "name": "UFC Fight Pass HD²",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d7c35bb0-849c-4f68-9f1f-27620c9b8c26.m3u8"
+  },
+  {
+    "name": "Zapping Sports HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cf462f00-f961-45a1-9fbb-6c1a36d96d3e.m3u8"
+  },
+  {
+    "name": "Fish TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9d8479fd-5e7e-4a72-9c21-ccb991571295.m3u8"
+  },
+  {
+    "name": "Red Bull TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/60606056-c328-4806-ac51-822cc42b199e.m3u8"
+  },
+  {
+    "name": "Woohoo HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e04cd752-b985-403d-aa47-31d810779046.m3u8"
+  },
+  {
+    "name": "HBO HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4733958e-7441-41a0-aa98-50673c446647.m3u8"
+  },
+  {
+    "name": "HBO 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/50a67f40-e252-41e9-a37d-55f072ec6dcb.m3u8"
+  },
+  {
+    "name": "HBO Family HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4b54f2ff-8419-4a5b-a880-116db0c471d8.m3u8"
+  },
+  {
+    "name": "HBO Mundi  HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e1c93147-ba7a-4f24-a143-5512d08600e0.m3u8"
+  },
+  {
+    "name": "HBO Plus HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4a4a95eb-56bb-45a5-b547-385c7e355386.m3u8"
+  },
+  {
+    "name": "HBO Pop HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/654108ff-b9aa-47bd-855f-a89923c7984a.m3u8"
+  },
+  {
+    "name": "HBO Signature HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ecba20a0-fef2-4df7-8604-9ffc9494a587.m3u8"
+  },
+  {
+    "name": "HBO Xtreme HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ff47ba5e-f8ad-4fd2-9d7d-62785401b8c1.m3u8"
+  },
+  {
+    "name": "USA Network HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f27a52a9-40f3-4c1f-a954-da943f6f9d35.m3u8"
+  },
+  {
+    "name": "A&E HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cafb3b29-8eb0-47bf-9d49-ddff64668c84.m3u8"
+  },
+  {
+    "name": "TNT HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b6d309ba-1e6c-4185-b50f-d938a565540b.m3u8"
+  },
+  {
+    "name": "TNT Séries HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6efed540-3676-41ad-85f4-170ddc079c58.m3u8"
+  },
+  {
+    "name": "TLC HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/378b7b60-e983-43d3-9ab4-6b18dd9bcb2d.m3u8"
+  },
+  {
+    "name": "Space HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/164cc190-d1b1-43ca-91c0-f0e4719ea47f.m3u8"
+  },
+  {
+    "name": "Megapix HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/670a23b0-4069-420a-a005-cafc899b9812.m3u8"
+  },
+  {
+    "name": "Cinemax HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a807b68b-aa44-4314-82fd-96732631dc32.m3u8"
+  },
+  {
+    "name": "Canal Sony HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7b0a14eb-3620-4d7c-a119-192ef59af806.m3u8"
+  },
+  {
+    "name": "AMC HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fb70542c-8e67-4cf0-9c7a-61e12314428e.m3u8"
+  },
+  {
+    "name": "AXN HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/aee58eb8-9a08-4b3b-a4da-fba7bd632ed0.m3u8"
+  },
+  {
+    "name": "Canal Brasil HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/480827ad-e0b5-411b-8b20-e909ff3a1da7.m3u8"
+  },
+  {
+    "name": "Paramount Channel HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/44831fd0-f87e-429a-b6e9-ca204457080f.m3u8"
+  },
+  {
+    "name": "Studio Universal HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/160e9dea-6f1c-45e0-b12f-14e25cbceae7.m3u8"
+  },
+  {
+    "name": "TCM HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8c8fd0e5-b011-4b6d-90e5-22ccf39adb50.m3u8"
+  },
+  {
+    "name": "TNT Novelas HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/622d6762-705d-44ab-a4e0-23f75dd9b1c8.m3u8"
+  },
+  {
+    "name": "TNT Novelas HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cead7faa-d3f8-4186-b8e6-dc30369fe31f.m3u8"
+  },
+  {
+    "name": "Universal HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6c3598ac-779c-40a7-bd61-3728a2e5f458.m3u8"
+  },
+  {
+    "name": "Warner Channel HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b37f8f96-2474-4b44-8123-09ec9e881093.m3u8"
+  },
+  {
+    "name": "Food Network HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/826417f2-5cc1-4ebc-a635-a39bc5b8547f.m3u8"
+  },
+  {
+    "name": "Multishow HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cbdd680a-b6b9-4e60-b176-45b707082b45.m3u8"
+  },
+  {
+    "name": "Multishow HD²",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d9a40cf3-1677-48c9-af98-ac8dc57e04ef.m3u8"
+  },
+  {
+    "name": "GNT HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fbd4db6d-2aff-47d7-afef-4fbbd6cdfa47.m3u8"
+  },
+  {
+    "name": "Lifetime HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/36a6a5f5-88d6-42db-a0ff-7e8bdbcd1b93.m3u8"
+  },
+  {
+    "name": "Bloomberg TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a83c05d2-d9ab-4b3d-8b7f-d1a84e289b48.m3u8"
+  },
+  {
+    "name": "HGTV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/86082207-672b-4480-88be-3dd829f965ed.m3u8"
+  },
+  {
+    "name": "Travel Box Brazil HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c94c4972-430e-4fc4-b2fe-74f870c470ba.m3u8"
+  },
+  {
+    "name": "E! HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3fa414d5-ec7c-403c-85ad-332c3d0e46f9.m3u8"
+  },
+  {
+    "name": "Comedy Central HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/386ffc49-c177-44a4-b0bf-65320c9814ad.m3u8"
+  },
+  {
+    "name": "Comedy Central HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/028912f2-a28f-4663-98e3-15639139edcf.m3u8"
+  },
+  {
+    "name": "Fashion TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d63615ec-aa3f-4fb5-b40b-37d6682f9c80.m3u8"
+  },
+  {
+    "name": "MTV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/233821f2-09a0-4ac2-8147-bb80f45c89ef.m3u8"
+  },
+  {
+    "name": "MTV Live HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7cea6147-bae3-447f-bdd2-a214807808ba.m3u8"
+  },
+  {
+    "name": "MTV 00s HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fba5450e-3650-411f-9269-f7550ba1af68.m3u8"
+  },
+  {
+    "name": "Adult Swim HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9aa6353d-517d-4792-a5b3-c29778ce261a.m3u8"
+  },
+  {
+    "name": "Bis HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8e7b8253-f9e9-4d38-ba8e-701a8bafff71.m3u8"
+  },
+  {
+    "name": "Sabor & Arte HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9472cd99-68d1-4513-a157-cba00122db11.m3u8"
+  },
+  {
+    "name": "Trace Brazuca HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/40b4fe00-b869-4d90-92fe-6fd415da275e.m3u8"
+  },
+  {
+    "name": "AgroMais HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2f705197-96ec-4c7c-a121-362172ab49a9.m3u8"
+  },
+  {
+    "name": "Agro Canal HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4e723209-dac5-46a5-8b2e-69db9e22ce3d.m3u8"
+  },
+  {
+    "name": "Dog TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b0039be3-b618-4aa7-b22a-75ae0fa9bdcf.m3u8"
+  },
+  {
+    "name": "Modo Viagem HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/43071524-9aac-4f9f-a91d-e687255110a8.m3u8"
+  },
+  {
+    "name": "Prime Box Brasil HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/913d99e3-9b33-41ef-812f-b25aebe89986.m3u8"
+  },
+  {
+    "name": "Music Box Brasil HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/79514ae1-8128-4821-8cbf-40a04af93fd8.m3u8"
+  },
+  {
+    "name": "Off HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6658a08d-881c-4664-a0ee-e635f1e57187.m3u8"
+  },
+  {
+    "name": "Malhação Fast HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/10936d72-d48c-417e-b8bd-51c23cf1430c.m3u8"
+  },
+  {
+    "name": "Universal Channel HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ba10f3c0-367b-4708-8283-12c002603e15.m3u8"
+  },
+  {
+    "name": "(ES) Eurosport 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3433c532-fc63-4bf8-a520-331d322303d3.m3u8"
+  },
+  {
+    "name": "(ES) Eurosport 2 HD²",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/dc47eaa8-667f-4ba3-ac1c-47732f11ba31.m3u8"
+  },
+  {
+    "name": "(ES) Eurosport 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e1a4d670-3e40-4805-9568-85a080a790df.m3u8"
+  },
+  {
+    "name": "Animal Planet HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/20cdfa0d-3504-4a6e-abc0-8a8767c5c069.m3u8"
+  },
+  {
+    "name": "Apple TV 01",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2fafe0cd-8071-44ae-9ef3-10646d325dd4.m3u8"
+  },
+  {
+    "name": "Apple TV 02",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/66d19a3e-5b6a-400d-9e67-91041a3bc9aa.m3u8"
+  },
+  {
+    "name": "Apple TV 03",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4680efbb-00c1-45b2-ba27-0a5d1b768bc8.m3u8"
+  },
+  {
+    "name": "Apple TV 04",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1b1d33b4-dbfd-4cae-b45c-2075f3b13f9b.m3u8"
+  },
+  {
+    "name": "Arte 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c507435b-d77b-4138-840c-8db9bb20180d.m3u8"
+  },
+  {
+    "name": "Canção Nova HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/23b6f69a-6955-47d8-8e31-f5a27d3b1765.m3u8"
+  },
+  {
+    "name": "Cartoon Network HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d003970b-45ea-4f26-ab3b-c98db6bc3839.m3u8"
+  },
+  {
+    "name": "Cartoonito HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5adc52d2-8ff1-46e9-9716-527e93d8d70f.m3u8"
+  },
+  {
+    "name": "SKY Cinema 01",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c159145a-0572-4694-abfd-a31edab41e81.m3u8"
+  },
+  {
+    "name": "SKY Cinema 02",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/384d8e25-255c-4d18-9635-87c8a04211af.m3u8"
+  },
+  {
+    "name": "SKY Cinema 03",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b8050676-5c3c-4c6a-8776-93e59b7d8ffe.m3u8"
+  },
+  {
+    "name": "SKY Cinema 04",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9e1bfa9d-5972-4b3c-9ac4-3aa9aa59db7d.m3u8"
+  },
+  {
+    "name": "SKY Cinema 05",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/15a47b90-5696-45fb-b83f-7bb733e10dc3.m3u8"
+  },
+  {
+    "name": "SKY Cinema 06",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e8d31bd5-17d3-4dd5-a420-0fa098b07d98.m3u8"
+  },
+  {
+    "name": "SKY Cinema 07",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a5fefb70-7cfb-4a95-ba99-21547dbd5e87.m3u8"
+  },
+  {
+    "name": "SKY Cinema 08",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/030611a3-27e7-45d2-96c3-e7d1a1fb5351.m3u8"
+  },
+  {
+    "name": "SKY Cinema 09",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9e77faa3-f000-4252-8368-84528c2e16c4.m3u8"
+  },
+  {
+    "name": "SKY Cinema 10",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/69875931-3ad2-40b5-b6ed-4b2520ece64b.m3u8"
+  },
+  {
+    "name": "SKY Cinema 11",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2d8bdcd8-ff36-429a-94a3-8cea5c58152a.m3u8"
+  },
+  {
+    "name": "SKY Cinema 12",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7a0c7018-7053-415b-b128-0bca63f3413a.m3u8"
+  },
+  {
+    "name": "SKY Cinema 13",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5997605b-11ef-48fc-a91b-6c399b17bf37.m3u8"
+  },
+  {
+    "name": "SKY Cinema 14",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/396ef21c-1989-484d-a2e8-6c7fba1c2a35.m3u8"
+  },
+  {
+    "name": "SKY Cinema 15",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a1480bdf-16ae-474a-b825-5f9856775a07.m3u8"
+  },
+  {
+    "name": "CNN Brasil HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/12aba12b-3a74-46ef-99a3-e6c6744b9fb2.m3u8"
+  },
+  {
+    "name": "CNN Brasil Money HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2b87d235-79ea-4d44-856a-38e9d7ac2b37.m3u8"
+  },
+  {
+    "name": "Copa do Brasil 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/861b023f-0b3a-4d50-9aee-3f0e76732739.m3u8"
+  },
+  {
+    "name": "Copa do Brasil 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/82854cf4-7e17-4c7f-95f6-dd286787c926.m3u8"
+  },
+  {
+    "name": "Copa do Brasil 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/70fec580-4e4f-46b0-befb-9e48643e4747.m3u8"
+  },
+  {
+    "name": "Copa do Brasil 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d3b737ea-e58a-42a0-95de-863d2faafee3.m3u8"
+  },
+  {
+    "name": "Copinha 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fe7e203e-c5d3-437d-8565-6d698daee459.m3u8"
+  },
+  {
+    "name": "Copinha 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/821458d1-7993-40a6-b52e-22bb219fa48f.m3u8"
+  },
+  {
+    "name": "Copinha 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1cabe309-f11f-4d06-a5b6-2c4bef089cc6.m3u8"
+  },
+  {
+    "name": "Curta! HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a9116455-356e-41c9-b1df-9d41f0cc27a6.m3u8"
+  },
+  {
+    "name": "DAZN  STAR+  HBOXMAX 1",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8560125c-7fe5-4c68-a81c-935f8c1580ec.m3u8"
+  },
+  {
+    "name": "DAZN  STAR+  HBOXMAX 2",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3d1bc778-e2e1-45ce-b65f-e830c1354cc8.m3u8"
+  },
+  {
+    "name": "DAZN  STAR+  HBOXMAX 4",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1177d630-787a-4a8e-a905-bb514eb32328.m3u8"
+  },
+  {
+    "name": "DAZN Combat HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6fca5c95-d13b-425a-b0af-95884d11dcfa.m3u8"
+  },
+  {
+    "name": "DAZN Womens Footbal HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3e29029a-0b35-4a4c-815f-1c3011b5fc82.m3u8"
+  },
+  {
+    "name": "Discovery Investigacao HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/338da5be-a2a3-416d-9b75-9ac031ea7415.m3u8"
+  },
+  {
+    "name": "Discovery  Channel HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c1ec9d74-7730-470f-b74f-39cde25f44ee.m3u8"
+  },
+  {
+    "name": "Discovery Channel HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a3b4c921-185d-40dc-9e59-fe02c13cc5ed.m3u8"
+  },
+  {
+    "name": "Discovery Home & Health HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/be9bbe05-f9b4-4903-b295-4334f66acb69.m3u8"
+  },
+  {
+    "name": "Discovery Kids HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b997f509-2fa3-42ac-bd10-761ab3c76610.m3u8"
+  },
+  {
+    "name": "Discovery Science HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c37da207-19fd-4693-b0bc-9ec772a38dbb.m3u8"
+  },
+  {
+    "name": "Discovery Theater HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2399ed78-04a5-4ded-b60e-984b18283725.m3u8"
+  },
+  {
+    "name": "Discovery Turbo HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/629f94a4-f833-46db-ae25-01bac0a49303.m3u8"
+  },
+  {
+    "name": "Discovery World HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b4cb8240-d5ba-4f01-9fc8-8dc0b79c3358.m3u8"
+  },
+  {
+    "name": "Eleven Sports 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2ad70690-5f1f-4554-986d-dd04fb9cefbc.m3u8"
+  },
+  {
+    "name": "Eleven Sports 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/10c299c1-5142-4f5e-b1ac-aa42cd0e85d7.m3u8"
+  },
+  {
+    "name": "Eleven Sports 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f82a6a03-9025-4e0a-9da8-59329551d08c.m3u8"
+  },
+  {
+    "name": "Eleven Sports 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/08d2c1fd-3775-4c0a-9321-b608e0e2136d.m3u8"
+  },
+  {
+    "name": "Eleven Sports 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b043381c-8c0c-4535-afdf-66255048c5c0.m3u8"
+  },
+  {
+    "name": "Eleven Sports 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ffc0eadb-c196-4acd-9b7f-84ca618f3ee0.m3u8"
+  },
+  {
+    "name": "Estadio TNT Sports 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7c403d43-aa05-4466-90a2-5c28ae1bbe9d.m3u8"
+  },
+  {
+    "name": "Estadio TNT Sports 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/568714ed-ca72-4b38-ad29-c9f67471df73.m3u8"
+  },
+  {
+    "name": "Estadio TNT Sports 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e582b7be-4434-4de7-a616-1319ebd9ba6d.m3u8"
+  },
+  {
+    "name": "Estadio TNT Sports 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9b296021-9137-4e04-a122-f7c39d994daa.m3u8"
+  },
+  {
+    "name": "Estadio TNT Sports 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/86458014-af06-4429-902c-5282c2cfbc50.m3u8"
+  },
+  {
+    "name": "Estadio TNT Sports 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0e1610ee-6cb9-4f3d-afdd-02c1b6b17477.m3u8"
+  },
+  {
+    "name": "Eurosport 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4585fde3-35d2-4e03-a8a2-864331064ef4.m3u8"
+  },
+  {
+    "name": "Eurosport 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6408767c-6076-4d78-9944-11c2930700b7.m3u8"
+  },
+  {
+    "name": "F.Sports TV",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7302a592-1c20-4aec-9623-e9711b5232c7.m3u8"
+  },
+  {
+    "name": "FIFA+ HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/04bab5e4-10f0-457e-88c5-500f402f861a.m3u8"
+  },
+  {
+    "name": "Fita Cassete",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d8171642-bf5f-4098-a00d-6dff10584ff6.m3u8"
+  },
+  {
+    "name": "Fox Sports 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/35abee2e-c272-4da8-b1ff-5e35d01bd451.m3u8"
+  },
+  {
+    "name": "Fórmula 1 Tv HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4f69fb2d-27c5-45e4-9ddd-d8ad42d7bedb.m3u8"
+  },
+  {
+    "name": "Gloob HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/67c3850c-7135-4ce0-808a-d7d9668e45ad.m3u8"
+  },
+  {
+    "name": "Gloobinho HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/dacfd486-c205-4e56-9f58-897524765ede.m3u8"
+  },
+  {
+    "name": "H2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0dc1c942-b418-4f2d-8f2c-37161fa6a156.m3u8"
+  },
+  {
+    "name": "HBO MAX 5",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7af64e2c-1227-4494-8d0f-6014cc71d5e8.m3u8"
+  },
+  {
+    "name": "History HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5f59f132-a672-49d1-987d-dd305e756c5f.m3u8"
+  },
+  {
+    "name": "Igreja Mundial do Poder de Deus HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/779057c5-f9d6-4831-8231-3fa7cf7798b9.m3u8"
+  },
+  {
+    "name": "Jovem Pan News HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8fefe0cd-862b-4483-883e-c2754269ec79.m3u8"
+  },
+  {
+    "name": "Kingpyn Boxing",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/27dded93-72f0-49c6-aaea-3d003a8b249a.m3u8"
+  },
+  {
+    "name": "Kiss (São Paulo)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/743ac738-8897-4f04-8417-9af4aec025b3.m3u8"
+  },
+  {
+    "name": "NBA 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2f6fac0d-b30e-4982-8446-b17950d0ba96.m3u8"
+  },
+  {
+    "name": "NBA 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/028b7058-f62d-4fbb-985a-dee75ec957c7.m3u8"
+  },
+  {
+    "name": "NBA 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/906783d5-c42f-46ea-bca6-4e78b82376c6.m3u8"
+  },
+  {
+    "name": "NBA 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e68c6e1a-7a32-4456-9457-9dda61db99fa.m3u8"
+  },
+  {
+    "name": "NBA 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b420102e-15e4-489a-b8eb-6647676d5025.m3u8"
+  },
+  {
+    "name": "NBA 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6ded3edc-ea99-46de-90f0-8f335c5d2b69.m3u8"
+  },
+  {
+    "name": "NBA 7 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2de118d7-c746-4072-8c97-784a7a2e55b8.m3u8"
+  },
+  {
+    "name": "NBA 8 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5481e76c-1d15-4cd6-baef-89e6e8b8f971.m3u8"
+  },
+  {
+    "name": "NBA 9 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9fcd8a68-41d2-4d58-8cda-b48723b43562.m3u8"
+  },
+  {
+    "name": "NBA 10 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4ab97926-1e3d-4a1b-b422-d2b50e198008.m3u8"
+  },
+  {
+    "name": "NBA 11 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4b66dc23-c0d6-419c-b10e-bef4aca13faf.m3u8"
+  },
+  {
+    "name": "NBA 12 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0fd94412-c1ff-4391-88e5-1ed3e66105ce.m3u8"
+  },
+  {
+    "name": "NBA A",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f6b6331d-0a3f-4fba-8152-bd462e624c98.m3u8"
+  },
+  {
+    "name": "NBA B",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8176e523-a624-4d69-9749-2c2b7239eb05.m3u8"
+  },
+  {
+    "name": "NBA C",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0399ccf9-48cc-477c-9f7e-32a16463842a.m3u8"
+  },
+  {
+    "name": "NBA D",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8eded219-2f02-4f6e-a991-01abda9eed38.m3u8"
+  },
+  {
+    "name": "NBA E",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/99008dea-a61b-4e5e-9af5-36774fbff0b8.m3u8"
+  },
+  {
+    "name": "NBA F",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c4b8429e-dd12-42f3-9064-f6b24e0937f4.m3u8"
+  },
+  {
+    "name": "NBA G",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5175f8f7-c0e5-4710-833d-a39c9262142e.m3u8"
+  },
+  {
+    "name": "NBA H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ce0ae789-1386-4a64-a713-9bbbba83945e.m3u8"
+  },
+  {
+    "name": "NBA I",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f45b1f3d-ed0e-4af4-a83b-f3fe9feb970a.m3u8"
+  },
+  {
+    "name": "NBA J",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7768f77a-7068-47f0-b55c-4f7bd3eb40c8.m3u8"
+  },
+  {
+    "name": "NHK HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/060d87dd-195c-4cdb-bd20-02d7a79bf3e0.m3u8"
+  },
+  {
+    "name": "Nick JR HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7a91b519-e663-445b-b31c-615c8c0ddb6d.m3u8"
+  },
+  {
+    "name": "Nickelodeon HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2b034e0a-3cbc-4ece-8f01-5987e22ef96f.m3u8"
+  },
+  {
+    "name": "Novo Tempo HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0057ed69-5c5f-4f5a-91c2-79d91c7f8a12.m3u8"
+  },
+  {
+    "name": "Ondemand 1",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bc000085-8be7-45a5-a236-591e9340fe29.m3u8"
+  },
+  {
+    "name": "Ondemand 2",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/086e90f4-d3bc-44d3-b836-50bd420df594.m3u8"
+  },
+  {
+    "name": "Ondemand 3",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d09cd16b-415d-4dd9-9247-639a1cc52186.m3u8"
+  },
+  {
+    "name": "Ondemand 4",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4d9bfd8e-ebb3-416c-a536-39523b7d846d.m3u8"
+  },
+  {
+    "name": "Ondemand 5",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/855cab4b-308d-4427-ae6f-b0d416d2a620.m3u8"
+  },
+  {
+    "name": "Ondemand 6",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cafb387f-bc79-412d-b168-82d1a022cb64.m3u8"
+  },
+  {
+    "name": "Pai Eterno HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7c5a8d51-adbf-4374-82b6-ce754c4e9143.m3u8"
+  },
+  {
+    "name": "Rede Gospel HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a0297187-63c3-4375-b416-f700c852541d.m3u8"
+  },
+  {
+    "name": "Rádio 90s Alternative",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/332cb5ae-336e-4897-a583-6c231d92be9b.m3u8"
+  },
+  {
+    "name": "Mix 1029 FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2ad5e295-c7ad-4ba8-88ea-3d149e9e5650.m3u8"
+  },
+  {
+    "name": "Rádio 93 FM (Rio de Janeiro)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0e7e434f-888e-4c9b-9ad2-f9611c6c5513.m3u8"
+  },
+  {
+    "name": "Rádio 105 FM (São Paulo)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fc2caf76-b214-4bc1-a79c-06375ba132b6.m3u8"
+  },
+  {
+    "name": "Plus Rádio Fortaleza",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c876da62-5aee-4311-afc2-d197b45c2469.m3u8"
+  },
+  {
+    "name": "Rádio 98 FM (Bahia)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/726b7aae-4321-48c2-8432-82e07db353b7.m3u8"
+  },
+  {
+    "name": "Rádio Alvorada 949 FM BH",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8bcc82c8-f73f-4ed5-aab3-a6a0e6acac27.m3u8"
+  },
+  {
+    "name": "Rádio Antena 1 (São Paulo)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4355e2c5-ece9-49ba-b10d-844553fa9f05.m3u8"
+  },
+  {
+    "name": "Rádio Antena 1 FM 947 SP",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4cdda149-a527-437f-b144-afa3603d3301.m3u8"
+  },
+  {
+    "name": "Rádio Antena 1 Lite FM 1037 RJ",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c1a289a2-9da8-4d2b-bf29-d39cdb79521b.m3u8"
+  },
+  {
+    "name": "Rádio Antenna 1 1071 FM Itália",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/beadbde9-238f-4f83-a50d-89468f0d63ec.m3u8"
+  },
+  {
+    "name": "Rádio Arena",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/07f2de0c-00f7-47a6-b5a3-cdc0a6f1753b.m3u8"
+  },
+  {
+    "name": "Rádio Awesome 80s",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f654b0e2-e27f-4363-b2f7-f608086cca67.m3u8"
+  },
+  {
+    "name": "Rádio Bahia (Salvador)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4e17fd05-3d2b-4f30-b237-a24078ada7f2.m3u8"
+  },
+  {
+    "name": "Rádio Beatles",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bc4a6ad3-b72e-4b08-9465-6b0a61020d74.m3u8"
+  },
+  {
+    "name": "Rádio BH FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b8381d70-e0d8-4aa1-85ec-ad0fd064dc88.m3u8"
+  },
+  {
+    "name": "Rádio Buzz",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fa05e51a-e863-422f-89e6-9ac52a114693.m3u8"
+  },
+  {
+    "name": "Rádio Canção Nova 891 FM SP",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e29d570a-0d45-434d-b38b-6b4e15393a06.m3u8"
+  },
+  {
+    "name": "Rádio Capital",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/332c2638-1bd7-4e49-8610-9c2f39479c04.m3u8"
+  },
+  {
+    "name": "Rádio CBN FM (São Paulo)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1ddbafe7-7fab-4984-bc1b-315beb63e27b.m3u8"
+  },
+  {
+    "name": "Rádio Classic Buzz",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c38a442b-ca0d-4f20-a18c-d26dce12bcf4.m3u8"
+  },
+  {
+    "name": "Rádio Clube 1055 FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/22e418f0-1954-45d3-b43a-50de7bcd0d73.m3u8"
+  },
+  {
+    "name": "Rádio Coca-Cola FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6a5934c8-0748-48b8-a043-fd6555bda887.m3u8"
+  },
+  {
+    "name": "Rádio Disney",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5429fbdf-fa03-4592-abb3-cd987141ad4a.m3u8"
+  },
+  {
+    "name": "Rádio Dumont FM (Sao Paulo)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4f3297a6-afb2-4886-9b52-37fe2654b6ac.m3u8"
+  },
+  {
+    "name": "Rádio Energia 97 FM (São Paulo)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3dc7628a-ace9-4d5c-a6c0-0f50b3a4aef8.m3u8"
+  },
+  {
+    "name": "Rádio Feliz FM (São Paulo)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5ab374f3-6ea1-4c2c-b20b-c7c2c70b7b00.m3u8"
+  },
+  {
+    "name": "Rádio Fla RJ",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/367c92fd-0cd3-4a59-974c-9989a2aeca1d.m3u8"
+  },
+  {
+    "name": "Rádio FM O Dia (Rio de Janeiro)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bb40cfb6-d910-451c-bcbb-4644c0992b0c.m3u8"
+  },
+  {
+    "name": "Rádio FM O Dia 1005",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/387819d4-936c-45fa-8c1a-99634bdee4d1.m3u8"
+  },
+  {
+    "name": "Rádio Gospel Campinas",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/59fa9af3-331c-485f-86df-976d5a0a8ca3.m3u8"
+  },
+  {
+    "name": "Rádio Gospel Life",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/763f7370-309c-4849-8669-a5c75bb61573.m3u8"
+  },
+  {
+    "name": "Rádio Hard Rock",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f53b9c9e-2704-4de5-b926-66fbd28ea305.m3u8"
+  },
+  {
+    "name": "Rádio Hits 997 FM Macaé RJ",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0fd72960-4d16-4323-9071-685baa54fc0d.m3u8"
+  },
+  {
+    "name": "Rádio Hot 107 FM SP",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/81d4abdc-0411-4ac2-ae3a-96711b78fec7.m3u8"
+  },
+  {
+    "name": "Rádio Itapoan FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c8ed80a9-f637-4a26-9420-39df7464d289.m3u8"
+  },
+  {
+    "name": "Rádio JB FM (Rio de Janeiro)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c7338940-bb9c-4d86-af2d-f51e3cee7de4.m3u8"
+  },
+  {
+    "name": "Rádio Jovem Pan (São Paulo)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/56de19fc-d0f2-40b4-9c81-ce451a23ec52.m3u8"
+  },
+  {
+    "name": "Rádio Kboing 1003 FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a30bca66-c555-4bef-9fea-f0cbdeb036d0.m3u8"
+  },
+  {
+    "name": "Rádio Liberdade 929 FM BH",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7ae3a1b9-547b-4e21-aeee-aec5ee63da14.m3u8"
+  },
+  {
+    "name": "Rádio Lupa 1 FM 945",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e55a0e94-77a6-495a-b76e-be3099a8e480.m3u8"
+  },
+  {
+    "name": "Rádio Melodia 975 FM RJ",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8b42f27f-7eda-4569-91e0-318d34f2032a.m3u8"
+  },
+  {
+    "name": "Rádio Metrópole",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6f776476-e882-43cd-b9ce-1b2b4b06510c.m3u8"
+  },
+  {
+    "name": "Rádio Mix 1063 FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/eab18d67-53aa-452b-8d55-4cfbcde26a14.m3u8"
+  },
+  {
+    "name": "Rádio Nativa 943 FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/dcefe157-10ac-4857-af9c-bdc14e86d79f.m3u8"
+  },
+  {
+    "name": "Rádio Nativa 953 FM SP",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0a946332-44e2-4a1c-a8cc-8b3749a6c71f.m3u8"
+  },
+  {
+    "name": "Rádio Nova Brasil FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/719ae2bf-87fa-4a9e-b2fa-f40afe63e5a2.m3u8"
+  },
+  {
+    "name": "Rádio Nova Geração FM SP",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/64acffee-66f7-47d6-8bb3-c6d434288e26.m3u8"
+  },
+  {
+    "name": "Rádio Nova Sertaneja 953 FM MG",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/260980d4-4e18-4ffa-8231-df07627e87f1.m3u8"
+  },
+  {
+    "name": "Rádio RBN Digital BA",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f0bc341b-e77f-4ac8-b63c-e5530109ffbf.m3u8"
+  },
+  {
+    "name": "Rádio Saudade FM (São Paulo)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3f2126b6-5d40-4d89-8894-44497326d2b3.m3u8"
+  },
+  {
+    "name": "Rádio Sinai Web Gospel SP",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5eeb673f-eda9-4724-9942-632bd183bf8c.m3u8"
+  },
+  {
+    "name": "Rádio Sul América Paradiso (Rio de Janeiro)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/518eaaa6-9f79-4ee9-bb0d-e64aeb0fbc39.m3u8"
+  },
+  {
+    "name": "Rádio Top FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f1a2f27b-fcef-48f2-b64b-c20e1575efdd.m3u8"
+  },
+  {
+    "name": "Rádio Transamérica Pop (São Paulo)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/dedad700-832e-4b41-b9ad-9054f919ec20.m3u8"
+  },
+  {
+    "name": "Rádio Tropical FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8e6f529e-7fcd-4e4c-8735-8e4aca3021ea.m3u8"
+  },
+  {
+    "name": "A Rádio Rock (Sao Paulo)",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5de28b21-5f24-4eae-8cd1-cd17bba65fc5.m3u8"
+  },
+  {
+    "name": "Rádio Transcontinental FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/db6f9996-eda4-44e6-bea2-75877eff9177.m3u8"
+  },
+  {
+    "name": "Super Rádio Tupi 965 FM RJ",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a7dc3a1a-9f27-4442-9a1d-ec2520d32346.m3u8"
+  },
+  {
+    "name": "Bons Tempos FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0f00b693-c05e-4157-a07c-3a2e1c5d17a8.m3u8"
+  },
+  {
+    "name": "Rádio Transamérica 1001 FM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ecb943b8-82d5-415e-ad08-6d87bcf24054.m3u8"
+  },
+  {
+    "name": "Telecine Action HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6c0cd8b6-06c7-43d6-8b63-d740d1aabc66.m3u8"
+  },
+  {
+    "name": "Telecine Cult HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/20a692ba-683e-4823-a13d-bdc177b250aa.m3u8"
+  },
+  {
+    "name": "Telecine Fun HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8c4dd49f-eb1a-4c55-8a54-c5530ffbc273.m3u8"
+  },
+  {
+    "name": "Telecine Pipoca HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/512ed798-b122-442b-b13f-6903adf19bb8.m3u8"
+  },
+  {
+    "name": "Telecine Premium HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3b9ec0e2-82ad-4f45-a503-332a3d1e78c9.m3u8"
+  },
+  {
+    "name": "Telecine Touch HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e2512eb8-8451-494b-83ce-347cd51a8675.m3u8"
+  },
+  {
+    "name": "Terra",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7489f4d9-0878-4310-a4ff-69e3c0cf529c.m3u8"
+  },
+  {
+    "name": "Tooncast HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/061a6425-bd88-4c95-9888-e37b4d0dffbc.m3u8"
+  },
+  {
+    "name": "TV Assembleia HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ce6ed060-f61a-46b1-bf0a-fc4a310c1fad.m3u8"
+  },
+  {
+    "name": "TV IMPD HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fbf6a457-ff2e-4399-8533-8853896bfa23.m3u8"
+  },
+  {
+    "name": "TV Rá Tim Bum HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c925221f-166e-4fab-ab93-bb845cf5dc75.m3u8"
+  },
+  {
+    "name": "VH1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/262a5885-8072-496f-8946-9afdb6346594.m3u8"
+  },
+  {
+    "name": "Zoomoo HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/325e4c58-61a1-49b9-81f9-6c509ad05c4a.m3u8"
+  },
+  {
+    "name": "HBO Leg  HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4fd762f3-68cc-4451-8ca7-c3c960113821.m3u8"
+  },
+  {
+    "name": "HBO Plus LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e65f6068-cdd5-4291-a7cf-7000c5bbb447.m3u8"
+  },
+  {
+    "name": "HBO Xtreme LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6b233d3f-ac6a-448b-8755-97788ea6937f.m3u8"
+  },
+  {
+    "name": "HBO Pop LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/13ddb804-bdd6-4845-acea-6513b9741902.m3u8"
+  },
+  {
+    "name": "HBO Mundi LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/73e25e6f-9db5-4ef6-95d7-afc93495a523.m3u8"
+  },
+  {
+    "name": "HBO Signature LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/af684e7d-5f22-4f8a-b356-12b092763279.m3u8"
+  },
+  {
+    "name": "Telecine Cult LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/123e6f61-420e-4902-a10c-988dfd6f20b0.m3u8"
+  },
+  {
+    "name": "Telecine Fun LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7998fc01-1b5a-4848-9c1d-22ad1e150716.m3u8"
+  },
+  {
+    "name": "Telecine Touch LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/22c5c88c-d931-485f-87e4-104cd8b2d84e.m3u8"
+  },
+  {
+    "name": "Telecine Premium LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f5cf7528-0d0a-4492-9a33-c3064c86407b.m3u8"
+  },
+  {
+    "name": "Telecine Pipoca LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6afa44ac-9ef8-4a24-93f2-f0c8ec7e70cb.m3u8"
+  },
+  {
+    "name": "Studio Universal LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/81f48f25-aac3-4c95-aaae-c58a3495eba0.m3u8"
+  },
+  {
+    "name": "Universal LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/daa05aa6-2a15-43bf-a72f-28d2b431d142.m3u8"
+  },
+  {
+    "name": "Warner LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1f0fbd2a-b73d-4697-bc45-e2883320cf35.m3u8"
+  },
+  {
+    "name": "Megapix LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/229d7984-1a1d-4241-8053-588762106399.m3u8"
+  },
+  {
+    "name": "TNT LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2db91dcf-252f-4b98-b3f8-f322388f5b45.m3u8"
+  },
+  {
+    "name": "Space LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a758e3fe-64db-4154-90cc-7396066db08a.m3u8"
+  },
+  {
+    "name": "AMC LEG HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0615658e-0def-47e2-bcdd-d48aadca561b.m3u8"
+  },
+  {
+    "name": "Sony Leg HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/480d6e7e-63e4-402b-a60c-de87066518a0.m3u8"
+  },
+  {
+    "name": "CNN Internacional HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/da197027-3772-44a8-9329-1613fffa2810.m3u8"
+  },
+  {
+    "name": "Agro+ HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/58fe86f8-626c-432e-a866-cfe19ec2f1a1.m3u8"
+  },
+  {
+    "name": "Golf Channel HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c527e5d4-112f-44e4-9317-1d61e6c3cfe2.m3u8"
+  },
+  {
+    "name": "CAN: NFL Network HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/af46198c-501f-4737-8ddb-bd98b1d3ec3d.m3u8"
+  },
+  {
+    "name": "US: NFL Network HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3a202884-6511-44f6-9c2f-1cc6911ec57d.m3u8"
+  },
+  {
+    "name": "USA: NBA TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/740cbebd-1abf-47c7-b6f6-ad6203d36e72.m3u8"
+  },
+  {
+    "name": "NBA TV",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4793203e-e8c6-4b88-9e01-fe25bf06d731.m3u8"
+  },
+  {
+    "name": "NBA League Pass 1",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fbcd86c5-b839-4762-9a2d-93bb430234d7.m3u8"
+  },
+  {
+    "name": "NBA League Pass 2",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4654bb14-619f-451d-8ae5-90ce6254cdaf.m3u8"
+  },
+  {
+    "name": "NBA League Pass 3",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/66eff119-83df-437d-ba9f-06520f7f0c4a.m3u8"
+  },
+  {
+    "name": "NBA League Pass 4",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9cff6a35-dab1-4b7d-a03f-d56c4a324051.m3u8"
+  },
+  {
+    "name": "NBA League Pass 5",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/581d9132-260f-419f-86ef-4aca8e165450.m3u8"
+  },
+  {
+    "name": "NBA League Pass 6",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/92aafbe2-c09e-4c5b-94aa-53bf241bb1c6.m3u8"
+  },
+  {
+    "name": "NBA League Pass 7",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1633ecd0-3cfe-44f9-bba2-a7ee6ae07d2a.m3u8"
+  },
+  {
+    "name": "NBA League Pass 8",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e4c12acf-5f29-4bd2-b14a-887ffcbcd9fe.m3u8"
+  },
+  {
+    "name": "NBA League Pass 9",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7213b528-82cd-4231-9f4e-a8538e4f2631.m3u8"
+  },
+  {
+    "name": "NBA League Pass 10",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1a526c36-09a3-4c4c-9e13-e06972d87bb0.m3u8"
+  },
+  {
+    "name": "NBA League Pass 11",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a314f9cc-a5c3-40af-a9b1-5fb104f3e56c.m3u8"
+  },
+  {
+    "name": "NBA League Pass 12",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a483d5e1-ea06-48a9-9a83-e7f0214360b7.m3u8"
+  },
+  {
+    "name": "NBA League Pass 13",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3b01c1d8-3582-4369-b050-9f57f5678e6d.m3u8"
+  },
+  {
+    "name": "Film & Arts HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/66759244-9ae5-4c7a-b06a-597165435369.m3u8"
+  },
+  {
+    "name": "HGTV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/95f9fda6-d472-4f54-a53f-7a035fd4b9cb.m3u8"
+  },
+  {
+    "name": "Boomerang",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/77be4cd3-9b01-4ad2-88f1-592111cc84cd.m3u8"
+  },
+  {
+    "name": "Rede Século 21 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/67a252aa-dbcf-468d-9095-44d878f6e4c2.m3u8"
+  },
+  {
+    "name": "A Fazenda 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2738903a-f6ad-4ebb-acd2-a45e6e4dcc3a.m3u8"
+  },
+  {
+    "name": "Canal Goat 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/caf7c9c5-5eb0-4f3d-99c0-ef27d6c98da1.m3u8"
+  },
+  {
+    "name": "Liga Futsal 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f828dedb-7578-49e3-aa5d-d680f111f1d2.m3u8"
+  },
+  {
+    "name": "Liga Futsal 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/38f032de-7370-4004-a242-cc47731fc4e3.m3u8"
+  },
+  {
+    "name": "Liga Futsal 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/79d04d60-0982-4d42-b83d-cc4996c79c5a.m3u8"
+  },
+  {
+    "name": "Liga Futsal 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e69e971a-f52f-41bd-b5b2-0088af600379.m3u8"
+  },
+  {
+    "name": "Zapping Sports 01 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4871df87-1c2c-4770-82b3-af4623caf62b.m3u8"
+  },
+  {
+    "name": "Zapping Sports 02 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/031f7477-13a4-49f6-b278-3552848a7464.m3u8"
+  },
+  {
+    "name": "Zapping Sports 03 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cba8324a-0bf2-44c3-8a1d-f446f5276975.m3u8"
+  },
+  {
+    "name": "Zapping Sports 04 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/53941045-5390-4fd5-88cf-42771a0bc5ed.m3u8"
+  },
+  {
+    "name": "Red Bull Tv HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3f555c3c-e856-4bac-80d1-f8413e00f91a.m3u8"
+  },
+  {
+    "name": "Centro de Treinamento 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6c21ea75-f7f9-42ae-9bae-9cb2ddc383a0.m3u8"
+  },
+  {
+    "name": "Centro de Treinamento 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5e3c91f1-466a-4612-b9b1-9f79b5fa2c6d.m3u8"
+  },
+  {
+    "name": "Dinâmica HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/16ffc2c5-a1b8-4dc1-a5f2-56a835290a79.m3u8"
+  },
+  {
+    "name": "Lounge HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a0e41536-fe17-4b6c-875d-768432413e07.m3u8"
+  },
+  {
+    "name": "Dormitório HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bbc20c9e-780f-4841-911d-b54c14fa6121.m3u8"
+  },
+  {
+    "name": "Refeitório HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/18833641-a340-4aa3-b333-17dd85ad58cb.m3u8"
+  },
+  {
+    "name": "Corredor HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/be6cf616-ed8e-4d5e-8952-3ad85ba460de.m3u8"
+  },
+  {
+    "name": "Sala de Composição HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5b529fee-b8f6-4c36-a888-aa3424c6a1b7.m3u8"
+  },
+  {
+    "name": "Sala de Jogos HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/52520ce7-cf77-46c7-a887-ff404d4a6e9d.m3u8"
+  },
+  {
+    "name": "Espaço Corpo HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5586cbb6-0809-45e6-9a57-0a08f9916c02.m3u8"
+  },
+  {
+    "name": "Area de Treino HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/14e9d13a-4600-4226-a99c-1f9cb97c82c9.m3u8"
+  },
+  {
+    "name": "Mosaico HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0f91fe84-054d-4509-8920-4979ed1d4702.m3u8"
+  },
+  {
+    "name": "Rede Super HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8244ff31-9cf5-4623-a8a2-7e36495d88d1.m3u8"
+  },
+  {
+    "name": "Desenho Tom e Jerry 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c44330f0-0e1a-4467-bb26-f5cea95b68bf.m3u8"
+  },
+  {
+    "name": "Dragon Ball 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1b0ba845-77d4-4d4f-af7a-fcea859ce3c8.m3u8"
+  },
+  {
+    "name": "Desenho Dora Aventureira 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9a0b5602-f206-47e9-8e95-53d4df731d0a.m3u8"
+  },
+  {
+    "name": "Dragon Ball Z 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3280450c-7d3b-4659-a75c-688f83f33084.m3u8"
+  },
+  {
+    "name": "Dragon Ball Super 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bd293d1a-eb88-430b-8dfb-60d2453df126.m3u8"
+  },
+  {
+    "name": "Super Dragon Ball Heroes 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/10ea75ad-7b26-483a-84e5-592278037b9b.m3u8"
+  },
+  {
+    "name": "One Piece 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/889e8252-9767-4dee-b305-ee5fce2a5564.m3u8"
+  },
+  {
+    "name": "Alf o Eteimoso 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d2fb3085-3b0a-4943-9dac-2eccf6e165c1.m3u8"
+  },
+  {
+    "name": "Gravity Falls: Um Verão de Mistérios 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2756dfb4-b771-45b9-b491-a8ceb9ecf33f.m3u8"
+  },
+  {
+    "name": "Pokémon Jornadas: A Série 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/870a00ca-4162-4d5a-9780-871e9c2241b3.m3u8"
+  },
+  {
+    "name": "Rocket Power 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a26b0185-b45f-4812-a116-935eccb99650.m3u8"
+  },
+  {
+    "name": "Sonic X 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/af565b16-9ad9-4d7b-a2d2-66b75a0016fc.m3u8"
+  },
+  {
+    "name": "Pokémon Filmes e Especiais 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d48258c6-7a98-4904-ae14-0f5497cfeedc.m3u8"
+  },
+  {
+    "name": "Timão e Pumba 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5fc41f01-1209-4e7e-a26f-55829df982cf.m3u8"
+  },
+  {
+    "name": "o Cão Covarde 1 24H\" tvg-logo=\"https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0103_24-HORAS.png\" group-title=\"24 HORAS (BR)\",Desenho Coragem, o Cão Covarde 1 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/05b87829-9a75-4cf8-a74e-3ac018cbf861.m3u8"
+  },
+  {
+    "name": "o Cão Covarde 2 24H\" tvg-logo=\"https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0103_24-HORAS.png\" group-title=\"24 HORAS (BR)\",Desenho Coragem, o Cão Covarde 2 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e2c04e8b-49e7-4c02-a12d-eb249807c85f.m3u8"
+  },
+  {
+    "name": "Caverna do Dragão 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7346edbf-31b5-4047-9c65-64cd0710c5e7.m3u8"
+  },
+  {
+    "name": "Os Jetsons 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/62d955bc-6147-4f72-bb80-f2f0de5c70f5.m3u8"
+  },
+  {
+    "name": "Os Flintstones 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b18981df-a214-48b7-8437-17eacf384e0c.m3u8"
+  },
+  {
+    "name": "Desenho Flinstones 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4ad53366-f29d-44e1-b4ef-a2a2598358d6.m3u8"
+  },
+  {
+    "name": "Pink e o Cérebro 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c61649ea-4926-4655-a29e-612218ed2c57.m3u8"
+  },
+  {
+    "name": "Futurama 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/da2ac2e2-797f-4039-a5c7-073cd902efa3.m3u8"
+  },
+  {
+    "name": "South Park 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a9be570f-cc8d-43fd-8143-f584a2f0b46f.m3u8"
+  },
+  {
+    "name": "Desenho Patrulha Canina 1 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ee0f2788-b704-4766-8f9a-b2f52b8c40cf.m3u8"
+  },
+  {
+    "name": "Desenho Patrulha Canina 2 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f8db8028-31cc-4840-bf8e-074a07be083b.m3u8"
+  },
+  {
+    "name": "Desenho Patrulha Canina 3 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f3a54cea-77d5-4a1b-9ce6-a46d74d42e75.m3u8"
+  },
+  {
+    "name": "Desenho Patrulha Canina 4 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/44ba4a5d-2f62-4f62-a0a1-8b5826507bb5.m3u8"
+  },
+  {
+    "name": "Desenho Patrulha Canina 5 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fd485541-59d6-4be4-90d8-a5326880d452.m3u8"
+  },
+  {
+    "name": "Desenho Patrulha Canina 6 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/aeb70f76-1cc3-4c0b-820b-c7d1c02bd060.m3u8"
+  },
+  {
+    "name": "Os Padrinhos Mágicos 1 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7004477f-063e-4856-b136-54b697510b20.m3u8"
+  },
+  {
+    "name": "Os Padrinhos Mágicos 2 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a627eb3a-e612-4296-b367-ff3e9258aa62.m3u8"
+  },
+  {
+    "name": "Os Padrinhos Mágicos 3 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3b0dd278-0d78-4345-942b-31222b6a7372.m3u8"
+  },
+  {
+    "name": "Os Padrinhos Mágicos 4 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/75db2017-94b6-4d3b-be34-0fa7716cbd6f.m3u8"
+  },
+  {
+    "name": "Os Padrinhos Mágicos 5 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7d57d4c5-2d51-46c9-8fee-2ee8f2a1f5a7.m3u8"
+  },
+  {
+    "name": "Scooby-Doo 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/47a4a028-7b55-43e9-874e-9089c22619de.m3u8"
+  },
+  {
+    "name": "Turma da Mônica 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ad36ba91-e9f1-476d-b30a-593445d1f9a3.m3u8"
+  },
+  {
+    "name": "Pokémon 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b19d7496-9d65-4ba5-9fca-865e78e49ad8.m3u8"
+  },
+  {
+    "name": "Papa-Léguas 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e5525737-ed89-4793-8acc-cc7b657cb5ae.m3u8"
+  },
+  {
+    "name": "Barbie 04 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/655ebc10-47fe-4ccc-82fc-6b8901220497.m3u8"
+  },
+  {
+    "name": "Baby Shark 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f3fdb273-3545-4a80-8d95-df49e05ee7c5.m3u8"
+  },
+  {
+    "name": "As Aventuras de Ladybug 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a3aa6fd0-49d0-4cbc-913b-f0f43977362d.m3u8"
+  },
+  {
+    "name": "Galinha Pintadinha 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7e336159-4705-414e-9e2d-4a02d3e012d0.m3u8"
+  },
+  {
+    "name": "Show da Luna 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6774baab-8547-4955-9471-33cc5e9eaa15.m3u8"
+  },
+  {
+    "name": "Teletubbies 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2ff9ca1b-32fe-4a33-a7dd-f2cd1012f755.m3u8"
+  },
+  {
+    "name": "Baby Looney Tunes 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/98689d02-c564-4ade-b9fb-fd7215ec5dac.m3u8"
+  },
+  {
+    "name": "PJ Masks 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7b550fa4-1169-40b1-8ffe-3cedac12b902.m3u8"
+  },
+  {
+    "name": "Os Simpsons 24h",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0e3c4e21-8d64-48e7-9541-d806ca73fa01.m3u8"
+  },
+  {
+    "name": "Dragon Ball GT 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d94f4dde-3139-496b-832b-e5459e98fa9e.m3u8"
+  },
+  {
+    "name": "Largados e Pelados Brasil 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/659c0de5-b64f-4500-90cd-93cd43e3e1c5.m3u8"
+  },
+  {
+    "name": "Pelados e Congelados 24H\" tvg-logo=\"https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0103_24-HORAS.png\" group-title=\"24 HORAS (BR)\",Largados, Pelados e Congelados 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/83397d48-4ad9-484f-8487-6ffaa5f06f09.m3u8"
+  },
+  {
+    "name": "De Férias com o Ex América Latina 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b8bab1bc-cb0e-4cdb-8a10-22b6447b97c7.m3u8"
+  },
+  {
+    "name": "De Férias com o Ex Caribe 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/48268ca1-f245-4dac-9fc6-a7ae0ac44696.m3u8"
+  },
+  {
+    "name": "No Limite 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8f1bbd33-b214-4f4d-ab05-bd7faa92130d.m3u8"
+  },
+  {
+    "name": "Breaking Bad: A Química do Mal 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/57d4c921-0b76-4ef8-b175-b84015db7bc8.m3u8"
+  },
+  {
+    "name": "Game of Thrones 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3c9b80ea-4fc3-44e6-a655-5ab2a75a4f48.m3u8"
+  },
+  {
+    "name": "Corrida Maluca 24HRS",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8a3b2269-b37a-4bff-a634-00feb3c18bd8.m3u8"
+  },
+  {
+    "name": "A Grande Família 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/830dcd0a-b276-44c3-8537-bafa428a7f40.m3u8"
+  },
+  {
+    "name": "iCarly 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c552d183-70cc-4294-91a7-ddf17aedc40f.m3u8"
+  },
+  {
+    "name": "Sobrenatural 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cabd2bd1-010f-4cd5-965c-75fcb2a2a5fe.m3u8"
+  },
+  {
+    "name": "The Witcher 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a89d99ef-5efc-4efe-9ecf-184f2f678bc4.m3u8"
+  },
+  {
+    "name": "Black Mirror 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e3fe0e31-1c2e-4e63-b004-7e887774be30.m3u8"
+  },
+  {
+    "name": "Dark 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/45cdaa5d-a810-49f7-809e-f514bf0c0ea5.m3u8"
+  },
+  {
+    "name": "Narcos: México 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d90b2346-0aa9-4d15-aeeb-f8d8de1affd8.m3u8"
+  },
+  {
+    "name": "Narcos 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/11854c70-04db-4725-9498-64f758f93c36.m3u8"
+  },
+  {
+    "name": "Stranger Things 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e3270e46-3e7f-419f-bbce-80df6ff7c598.m3u8"
+  },
+  {
+    "name": "Friends 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0184b4eb-1fb2-4dfc-b3d5-c35e6ed5c397.m3u8"
+  },
+  {
+    "name": "The Big Bang Theory 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/70739a5b-403d-4be6-96ab-3a6df96d9b1a.m3u8"
+  },
+  {
+    "name": "Todo Mundo Odeia o Chris 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/80c10368-a283-40de-8b95-16209ec3344c.m3u8"
+  },
+  {
+    "name": "Um Maluco no Pedaço 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/923d2a13-321e-42d6-a4b2-4324886c9e48.m3u8"
+  },
+  {
+    "name": "Dois Homens e Meio 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/47135251-1060-402b-8a80-976e437fdc1c.m3u8"
+  },
+  {
+    "name": "a Patroa e as Crianças 24H\" tvg-logo=\"https://icons.ipcdn4.com/pasta%203/_0000s_0000s_0000s_0103_24-HORAS.png\" group-title=\"24 HORAS (BR)\",Eu, a Patroa e as Crianças 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/022f8d6b-9c54-4ea7-94d5-91d446fd8659.m3u8"
+  },
+  {
+    "name": "Chaves 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8491917f-d8a8-4ed7-bdea-2e0da40a6366.m3u8"
+  },
+  {
+    "name": "Chapolin Colorado 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ff2bd4bb-3098-4edd-803f-4cd708e58111.m3u8"
+  },
+  {
+    "name": "Smallville 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e8ada654-6417-4b15-9d6b-21e955145cc2.m3u8"
+  },
+  {
+    "name": "Bob Esponja 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/57f6b6f1-4fed-478e-a9e8-b1734b157521.m3u8"
+  },
+  {
+    "name": "Ben 10 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8c822e15-2faa-4bee-b4bb-645ee0566ee5.m3u8"
+  },
+  {
+    "name": "As Meninas Superpoderosas 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/426ffcb9-182d-4846-b819-ec0d9a956fe7.m3u8"
+  },
+  {
+    "name": "Gasparzinho 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3bb7ae4f-0582-45bb-9ae0-0ba81b2116e6.m3u8"
+  },
+  {
+    "name": "3 Palavrinhas 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b0748769-188f-46c0-9266-0f912707cd55.m3u8"
+  },
+  {
+    "name": "Pocoyo 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/21d688de-44a0-4d44-bad4-26a736e09e92.m3u8"
+  },
+  {
+    "name": "De Férias com Ex 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/294f6855-0dd5-4edf-9fcb-dbebdbdf4103.m3u8"
+  },
+  {
+    "name": "MasterChef 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/72f78fca-2310-4938-af74-6d10d78b7121.m3u8"
+  },
+  {
+    "name": "Super Choque 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/777e5311-116e-4f42-bf5e-d5aa277ce8bb.m3u8"
+  },
+  {
+    "name": "Sonic 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/adaf26ba-60fd-459f-95c8-d33ae878eafb.m3u8"
+  },
+  {
+    "name": "Pinky e o Cérebro 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a109c39f-9da8-4965-b719-9decaae87c32.m3u8"
+  },
+  {
+    "name": "A Pantera Cor-de-Rosa 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/678bdf16-3753-4798-9d51-6bb324ebd524.m3u8"
+  },
+  {
+    "name": "Desenhos Bíblicos 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/50906fce-c13f-464a-bc5e-2e49eaa75963.m3u8"
+  },
+  {
+    "name": "Luluzinha 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/beaeeb09-5260-4fd3-9642-e61f68f57a9e.m3u8"
+  },
+  {
+    "name": "Músicas Classicas 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8997a376-c2c3-41c1-9866-b92e35a360d0.m3u8"
+  },
+  {
+    "name": "Músicas Hits 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/eb75a499-cb7a-46cf-a1fe-fad4738179f6.m3u8"
+  },
+  {
+    "name": "Músicas Lofi 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/585574fe-47b6-4111-82b7-3a875e05478d.m3u8"
+  },
+  {
+    "name": "Músicas Mpb 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4e1c4411-e66d-475b-9aed-0e36334394e4.m3u8"
+  },
+  {
+    "name": "Músicas Punch 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/42bf6127-6c44-4195-81b6-3d9c55ceadbd.m3u8"
+  },
+  {
+    "name": "Músicas Retro 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a3bfa2cf-b567-425d-9232-b8df1916e935.m3u8"
+  },
+  {
+    "name": "Músicas Samba e Pagode 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b5b77242-f109-4d2a-8b65-6d1dd313ae64.m3u8"
+  },
+  {
+    "name": "Músicas Sertanejo 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/92ba73a4-75eb-45e1-ab90-0c50fe1a213e.m3u8"
+  },
+  {
+    "name": "Músicas Pop 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2810799c-0e03-4c17-aa1f-86b688129dcd.m3u8"
+  },
+  {
+    "name": "Músicas Urbanas Brasil 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/50f57dad-9bd5-4ed4-b4a3-2ac644eeaa32.m3u8"
+  },
+  {
+    "name": "Músicas Uwu 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d823c143-0256-4f66-928e-71564ac39e0a.m3u8"
+  },
+  {
+    "name": "Chaves 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bb9e8c2e-b8e1-44bc-bf5c-7762e25b621c.m3u8"
+  },
+  {
+    "name": "Chaves Desenho 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0cdb0cc2-2d45-4f6c-8803-9fc6b2952948.m3u8"
+  },
+  {
+    "name": "Escolhinha do Professor Raimundo 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e64fb992-9e41-4bb8-8d02-ad752e0b309b.m3u8"
+  },
+  {
+    "name": "Rick And Morty 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ff91d4b1-63c2-4d1b-b5a8-96d80dcb093f.m3u8"
+  },
+  {
+    "name": "Pica Pau 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/efcfd52c-e22e-48f6-a58c-4ab7c2da1509.m3u8"
+  },
+  {
+    "name": "Scooby Doo 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f6e60622-a200-4bc7-9823-9ff485e6150e.m3u8"
+  },
+  {
+    "name": "Homem Aranha 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ee300ee1-1553-4b28-9679-cb2c7f6f1898.m3u8"
+  },
+  {
+    "name": "Corrida Maluca 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/923a9445-ef5d-4caf-b82f-c868aaaf6c76.m3u8"
+  },
+  {
+    "name": "Apenas Um Show 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e2e04f99-3816-4ebb-a939-7d751c236071.m3u8"
+  },
+  {
+    "name": "Ursinhos Carinhosos 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5fa84e8a-9748-4992-a62c-62b68187a4f5.m3u8"
+  },
+  {
+    "name": "Mundo Bita 24H",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3e5937a0-4809-47ef-9c4d-a41a8476681f.m3u8"
+  },
+  {
+    "name": "Brasileirinhas 2",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/83183ecd-db14-4f92-ae6f-b1aacd0d1203.m3u8"
+  },
+  {
+    "name": "PORNBOX: 1111 Customs",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e685db5a-0929-4378-970a-532cc4c923d1.m3u8"
+  },
+  {
+    "name": "PORNBOX: Brazzers en espanol",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/be6381a1-88bf-42ca-b326-b82510de7894.m3u8"
+  },
+  {
+    "name": "PORNBOX: Broken Teens",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d3eeee78-6449-4250-96af-b9b8f8b0cddc.m3u8"
+  },
+  {
+    "name": "PORNBOX: Chad Alva",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ab8c9036-a726-4969-bff9-e53db434dfc8.m3u8"
+  },
+  {
+    "name": "PORNBOX: Cum Fiesta",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/69b1d051-8dcc-4648-a83d-379ab6025591.m3u8"
+  },
+  {
+    "name": "PORNBOX: Daughter Swap",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/995e2240-f9a7-4576-a1a4-f2b693e44490.m3u8"
+  },
+  {
+    "name": "PORNBOX: Day With A Pornstar",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a123f44e-8f5b-413f-805a-f2a4b896d78d.m3u8"
+  },
+  {
+    "name": "PORNBOX: Deeper",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/78b8f4c4-9059-4cb2-9900-c7831da994a5.m3u8"
+  },
+  {
+    "name": "PORNBOX: DFD Busty",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0ebca462-9efb-4bbe-a2e4-9fcb04892e6e.m3u8"
+  },
+  {
+    "name": "PORNBOX: DFD Network",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/229d3ff1-ea91-4292-971d-cd07ca01717f.m3u8"
+  },
+  {
+    "name": "PORNBOX: Digital Playground",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/44cf90ad-7d4b-495f-839d-dd3f2172ce4d.m3u8"
+  },
+  {
+    "name": "PORNBOX: Elegant Anal",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/04b65416-5703-4de3-a23c-f1c4d9c03e63.m3u8"
+  },
+  {
+    "name": "PORNBOX: Erito",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2cf2adb9-63af-4984-a1b0-bf852f29b669.m3u8"
+  },
+  {
+    "name": "PORNBOX: Evil Angel",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/66820e71-11f1-474e-95e1-640caa8d3935.m3u8"
+  },
+  {
+    "name": "PORNBOX: Exxxtra Small",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/129a212f-af55-4841-9f26-57afd387f337.m3u8"
+  },
+  {
+    "name": "PORNBOX: Fake Agent",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f10e92da-0116-4238-b63b-4db5d7d54311.m3u8"
+  },
+  {
+    "name": "PORNBOX: Fake Agent UK",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f0299c98-8c70-4b66-82bd-8823ba854aad.m3u8"
+  },
+  {
+    "name": "PORNBOX: Fake Cop",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fd4dfbb8-7feb-495c-abde-04e1efb6e50d.m3u8"
+  },
+  {
+    "name": "PORNBOX: Fake Driving School",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2e45bd4a-c071-42f9-93a1-47c3418595cf.m3u8"
+  },
+  {
+    "name": "PORNBOX: Fake Hospital",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9cccb8ef-f9bc-4470-9738-71c916e3e0ab.m3u8"
+  },
+  {
+    "name": "PORNBOX: Fake Hostel",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d28eab00-0f7e-480b-b657-7aeddbb89b03.m3u8"
+  },
+  {
+    "name": "PORNBOX: Fake Taxi",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e7aac3ac-0674-4df2-a25b-2d7adbe31c6c.m3u8"
+  },
+  {
+    "name": "PORNBOX: Fakehub Originals",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6895bc1b-1ced-47b1-9f14-9b8be9f2ae2d.m3u8"
+  },
+  {
+    "name": "PORNBOX: Family Sinners",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a5a05b4d-fe57-42ff-a837-ffceb25824eb.m3u8"
+  },
+  {
+    "name": "PORNBOX: Family xxx",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/02bfd1f8-ecf2-4126-9278-d33496e6d523.m3u8"
+  },
+  {
+    "name": "PORNBOX: Female Agent",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7fe6eabd-f8a3-4602-830b-c2cebf8f47bd.m3u8"
+  },
+  {
+    "name": "PORNBOX: Female Fake Taxi",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4aeb90c3-e31e-409a-8fc5-02ff91fc2d94.m3u8"
+  },
+  {
+    "name": "PORNBOX: FIT18",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8b65a33b-ac66-4136-8cf3-6fe6c9f8046d.m3u8"
+  },
+  {
+    "name": "PORNBOX: Forgive Me Father",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/017b12f6-735f-4849-8433-b638ff60c344.m3u8"
+  },
+  {
+    "name": "PORNBOX: GF Regenve",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e2a4dca5-6b2c-48ad-8ee4-b38803c869b3.m3u8"
+  },
+  {
+    "name": "PORNBOX: Gotmylf",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8b630d23-e65b-4a4b-8b36-5d4933bd732c.m3u8"
+  },
+  {
+    "name": "PORNBOX: Mofos Lab",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e8d3f446-9806-4751-9393-bcaea76c3dbf.m3u8"
+  },
+  {
+    "name": "PORNBOX: Her Limit",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/25945cfc-fabf-45da-834a-dc538cd20981.m3u8"
+  },
+  {
+    "name": "PORNBOX HOMEMADE AMATUERS",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/67a48424-ab97-4bd7-8d39-3e900dee7040.m3u8"
+  },
+  {
+    "name": "PORNBOX: Hot Wife xxx",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/dd1f4175-66ae-4d52-99e7-4d022ae168d9.m3u8"
+  },
+  {
+    "name": "PORNBOX: Interracial Pass",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e4f4a8aa-c339-4d8f-ae40-e1df0c3fa18c.m3u8"
+  },
+  {
+    "name": "PORNBOX: Japan Lust",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/dee753fd-7c9f-43b1-a7ac-dfb8dc338dc5.m3u8"
+  },
+  {
+    "name": "PORNBOX: Jav Hub",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/235122e5-af36-4cfd-b85a-2758cbd358ae.m3u8"
+  },
+  {
+    "name": "PORNBOX: Jays Pov",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f1d24d0e-4ad5-42e7-a4ab-6a1e1c9c18a1.m3u8"
+  },
+  {
+    "name": "PORNBOX: Jesh By Jesh",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4c449492-7712-4f0e-a41e-2e82a0e434d0.m3u8"
+  },
+  {
+    "name": "PORNBOX: Lets Do It",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7cdb0ee7-4172-4959-ae31-f4771f2bad8e.m3u8"
+  },
+  {
+    "name": "PORNBOX: Love Her Ass",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6de12711-7a01-4d17-82cc-3c784cdd4141.m3u8"
+  },
+  {
+    "name": "PORNBOX: Massage Romms",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d90e6460-d935-40da-864b-3473adc8bf32.m3u8"
+  },
+  {
+    "name": "PORNBOX: Mean Girls",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9174f297-8ce7-4bd9-8b24-9bf39e23a873.m3u8"
+  },
+  {
+    "name": "PORNBOX: Mile High",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/be055563-f694-4d88-ad21-926d9b11cb2e.m3u8"
+  },
+  {
+    "name": "PORNBOX: Milf Hunter",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e3f15a2d-90d8-4e0b-81b2-c4796b178aa0.m3u8"
+  },
+  {
+    "name": "PORNBOX: Mofos B Sides",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1be4536b-0fec-46d8-97fc-7548ee157e81.m3u8"
+  },
+  {
+    "name": "PORNBOX: Mofos Lab",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5dac0814-dd25-4435-ab89-e17353954697.m3u8"
+  },
+  {
+    "name": "PORNBOX: Mom Knows Best",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c3bbba91-a43a-44b4-849d-2e2300656638.m3u8"
+  },
+  {
+    "name": "PORNBOX: Money Talks",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/21bb084c-7f68-4e3f-888c-cb516cf73e1c.m3u8"
+  },
+  {
+    "name": "PORNBOX: MR Lucky Pov",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5fa4b760-60e5-43da-ba35-d038b3c410f8.m3u8"
+  },
+  {
+    "name": "PORNBOX: My 18 Teens",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/99d22c96-d397-42cd-bfbb-d7aba7498682.m3u8"
+  },
+  {
+    "name": "PORNBOX: My Friends Hot Mom",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9fe0a29e-045b-4c6b-90e4-b2482ea16402.m3u8"
+  },
+  {
+    "name": "PORNBOX: My Life In Miami",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/51819298-16f6-4218-b798-f203f702859a.m3u8"
+  },
+  {
+    "name": "PORNBOX: My Pervy Family",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/70ef201a-0dab-4cc3-80e9-cc8bb22c692c.m3u8"
+  },
+  {
+    "name": "PORNBOX: Perv City",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d8fb6718-5ab3-4cbb-bd6b-c6a6799647d6.m3u8"
+  },
+  {
+    "name": "PORNBOX PERVS ON PATROL",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2fd4389b-0407-4775-98b7-418097d5b1f6.m3u8"
+  },
+  {
+    "name": "PORNBOX PORNO ACADEMIE",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/742c27fb-bb6a-47da-a6d3-ebe152d1c0a9.m3u8"
+  },
+  {
+    "name": "PORNBOX PRETTY DIRTY",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6b7806bd-b940-44e7-9cde-0eebe1c45067.m3u8"
+  },
+  {
+    "name": "PORNBOX PRIVATE",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/67c00ba6-aa6c-421d-9d80-eb85f31b5d98.m3u8"
+  },
+  {
+    "name": "PORNBOX PROPERTY SEX",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0463974b-a2e4-48a7-995b-b924496f94b3.m3u8"
+  },
+  {
+    "name": "PORNBOX PUBLIC PICKUPS",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6466b952-91db-4f7f-80b5-e63a65cb96f6.m3u8"
+  },
+  {
+    "name": "PORNBOX: Pure Taboo",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d8f7b551-6150-48b3-b1c7-3177719c3d77.m3u8"
+  },
+  {
+    "name": "PORNBOX PURE18",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b0bc9655-c5e2-4206-a70f-628c30ba2d09.m3u8"
+  },
+  {
+    "name": "PORNBOX RAW ATTACK",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/941db561-61e0-434e-80b7-6d8a03164493.m3u8"
+  },
+  {
+    "name": "PORNBOX REAL EX GIRLFRIENDS",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5b956dee-6393-40c6-910b-16825aa0c97f.m3u8"
+  },
+  {
+    "name": "PORNBOX RK PRIME",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7cd36841-bf03-4dc1-be7d-46663b5a40ac.m3u8"
+  },
+  {
+    "name": "PORNBOX: RK Prime",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cbfe0c7b-3dfb-453d-b7b0-05fd265d033d.m3u8"
+  },
+  {
+    "name": "PORNBOX SEX WORKING",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cf9ce570-3cec-4488-9a41-4f24c9a6d78f.m3u8"
+  },
+  {
+    "name": "PORNBOX SHARE MY BF",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9b4cfbb0-1850-4abc-a789-d6faae76c70f.m3u8"
+  },
+  {
+    "name": "PORNBOX SIS LOVES ME",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9b03e56c-8ab0-4199-a085-e9aa7b9ca28e.m3u8"
+  },
+  {
+    "name": "PORNBOX SPY FAM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9065b43e-c392-4007-9d29-17fe6c9bcf64.m3u8"
+  },
+  {
+    "name": "PORNBOX STEP MOM LESSONS",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/99c24364-21e1-4539-8648-87e8bd5a8719.m3u8"
+  },
+  {
+    "name": "PORNBOX STEPSIBLINGS",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8ff98737-0c46-4260-9e46-1aa11e80e66a.m3u8"
+  },
+  {
+    "name": "PORNBOX STRANDED TEENS",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e9ea930d-fd8b-4e5c-a572-28c6fde43d49.m3u8"
+  },
+  {
+    "name": "PORNBOX SWALLOW SALON",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fbf61791-1e6d-4492-9ebe-cda28defc78e.m3u8"
+  },
+  {
+    "name": "PORNBOX: Tiny Teen City",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bf23283e-4792-4bf7-91ae-66e1b442f3f5.m3u8"
+  },
+  {
+    "name": "PORNBOX TURNING TWISTYS",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9fb2ef0d-8733-4686-8b0f-d48b67087451.m3u8"
+  },
+  {
+    "name": "PORNBOX TUSHY",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/72db5215-859c-4120-b050-aa398dff2595.m3u8"
+  },
+  {
+    "name": "PORNBOX TWISTYS ORIGINAL",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/743aa19b-03e2-4f67-a32a-15045f9be6fb.m3u8"
+  },
+  {
+    "name": "PORNBOX VIXEN",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/400cacf9-ce35-4069-9c95-0d1676388158.m3u8"
+  },
+  {
+    "name": "PORNBOX VLOG XXX",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/554e9f48-8e5c-4bc7-95e0-8dcd46b0b97d.m3u8"
+  },
+  {
+    "name": "Stars Exclusive Abella Danger",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/899a5631-6009-4d70-a54b-24fcb73a6561.m3u8"
+  },
+  {
+    "name": "Stars Exclusive Adriana Chechik",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2075b00f-730f-4cb9-8360-35ac217492a2.m3u8"
+  },
+  {
+    "name": "STARS EXCLUSIVE ALINA LOPEZ",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3dd56c71-2c33-4e3a-bdf1-8616fe675220.m3u8"
+  },
+  {
+    "name": "STARS EXCLUSIVE ALINA LOPEZ",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/22012af6-c070-47aa-a125-aec13ee365a1.m3u8"
+  },
+  {
+    "name": "STARS EXCLUSIVE ANGELA WHITE",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/09d4f381-0dd2-4aa6-a359-e9610688bc5c.m3u8"
+  },
+  {
+    "name": "STARS EXCLUSIVE ARIANA MARIE",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0182e719-b3ec-4ff8-83e5-c740e5dc3fa4.m3u8"
+  },
+  {
+    "name": "STARS EXCLUSIVE BRANDI LOVE",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/960de5f9-41f5-472a-bbc9-41953a764569.m3u8"
+  },
+  {
+    "name": "STARS EXCLUSIVE DANI DANIELS",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6a338977-f713-4d67-ba81-746fc7145edb.m3u8"
+  },
+  {
+    "name": "STARS EXCLUSIVE DANI JENSEN",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/634079d3-ea4b-4c21-8df4-afd4c752493e.m3u8"
+  },
+  {
+    "name": "STARS EXCLUSIVE ELSA JEAN",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b4d472e1-7b22-475b-ace0-57c884b4e2ae.m3u8"
+  },
+  {
+    "name": "STARS EXCLUSIVE EMILY WILLIS",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/61e98714-0531-45e4-b7ef-0a1efaa52346.m3u8"
+  },
+  {
+    "name": "STARS EXCLUSIVE EVA LOVIA",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9c0401d1-30ae-405f-bdc1-fefec3695895.m3u8"
+  },
+  {
+    "name": "STARS EXCLUSIVE MIA MALKOVA",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7e289a83-d659-4ca8-b8ec-bebecded980d.m3u8"
+  },
+  {
+    "name": "Venus HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/33bd4121-0e94-468d-bcad-5d4b7850e586.m3u8"
+  },
+  {
+    "name": "Playboy HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/81dc04de-b0a7-47aa-858f-1ddb70b304f0.m3u8"
+  },
+  {
+    "name": "Sexy Hot HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/304b414d-42c2-4dc5-86ad-eb8d2aa1b8fc.m3u8"
+  },
+  {
+    "name": "Lethal Hardcore",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0581cc77-90aa-476b-a325-503976ae9ce7.m3u8"
+  },
+  {
+    "name": "Filthy Pov",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8233350f-af5b-4690-9780-c0801d881b49.m3u8"
+  },
+  {
+    "name": "Kinky Family",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/37c35e4e-d488-49d4-97b3-5e74ee5bed8f.m3u8"
+  },
+  {
+    "name": "Black Gfs",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e31f9b2a-9bb5-4c08-a856-51cd3b1d81d5.m3u8"
+  },
+  {
+    "name": "Blacked",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6b331cec-7a3d-4a64-8f7d-cd74bb74b391.m3u8"
+  },
+  {
+    "name": "Jules Jordan",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3e3883c1-ecfc-4b58-9a6c-3a980cc3ee36.m3u8"
+  },
+  {
+    "name": "Bang Bros Network",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f25979de-2f0a-4184-ae67-f8cafd0b7ce3.m3u8"
+  },
+  {
+    "name": "Brazzers",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/971effde-99a5-440f-a12f-d8a6f656a826.m3u8"
+  },
+  {
+    "name": "Gay Beefcake Hunter",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/007736f3-5617-4c51-879c-7b4f95038e13.m3u8"
+  },
+  {
+    "name": "Gay Next Door Raw",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a2d17520-9dca-46a7-a9c3-f647d4bfce5a.m3u8"
+  },
+  {
+    "name": "Gay Breed It Raw",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e5f018f2-ab3c-4e62-881d-de49cf8942ef.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 01",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1b6e7c3c-569c-4585-8337-90ac009ddcb9.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 02",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/418a2e09-a3d1-4adf-8430-6e22db369960.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 03",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5dd9e6fd-5476-4d9a-a0d4-702c374de4f4.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 04",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/65872e62-b359-4a13-9336-ea4503ee2964.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 05",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8e99d254-08dc-4543-9170-fe68ef11d2d0.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 06",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/84d312ea-7d10-4706-8d38-83ebcc748959.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 07",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/294b3342-aa93-4eb0-949a-2186eab358ab.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 08",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/92be8de1-ab47-441c-955e-97f92f39327e.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 09",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d737ab49-de6a-47e3-9b03-a2298e8e0019.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 10",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7d5bf14e-87ed-49bf-8145-d6bb51c5fffb.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 11",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/6077ea2c-91a5-47c2-9d87-0738db855edd.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 12",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/957ca56b-4bc9-49c6-b9a0-9cebccaa7716.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 13",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f442cd8b-e812-4f42-a1e7-0c78fdd633cc.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 14",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/41108ba9-01ba-4c4b-8cba-d3fbaaa48caf.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 15",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0fbea002-6856-487a-9170-814d67b59f00.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 16",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e2cdb912-a659-4da1-89ab-b9ab5cd49ae9.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 17",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d10a1cb0-9f97-4e6c-a8b6-37a38714fcde.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 18",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f595ef7b-7ac4-4aa6-ac4d-de005283908b.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 19",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/88858813-7d9c-4666-a6e0-2a8579cf3d65.m3u8"
+  },
+  {
+    "name": "LGBTQIA Gay 20",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/93e0b36a-9a82-40e2-83d9-01896aeea28a.m3u8"
+  },
+  {
+    "name": "(PT) 24 Kitchen HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5bab059d-6366-4c23-ad29-30adb2512cd8.m3u8"
+  },
+  {
+    "name": "(PT) Afro Music HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8cdf78db-ab2d-497e-b4f6-af409cbac299.m3u8"
+  },
+  {
+    "name": "(PT) ARTV",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a2068bc8-5471-42c4-9d5d-8bac4ddafd63.m3u8"
+  },
+  {
+    "name": "(PT) AXN HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ffc52113-c54d-4b51-99b3-6e3027bf26d3.m3u8"
+  },
+  {
+    "name": "(PT) AXN Movies  HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2e00746f-a8e3-41d1-89c1-f3d4d9528351.m3u8"
+  },
+  {
+    "name": "(PT) AXN White HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9e290543-f7b2-4e8d-9e3e-9bf7acb67002.m3u8"
+  },
+  {
+    "name": "(PT) Canal Panda",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e5d1a405-b8ea-4c14-9ed5-a5132affa93a.m3u8"
+  },
+  {
+    "name": "(PT) Canal Porto",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1d2e0a59-c299-455f-87ea-d5dead718d93.m3u8"
+  },
+  {
+    "name": "(PT) Canal Q",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/81168e18-1492-43fc-a28e-6fc3e0eb5196.m3u8"
+  },
+  {
+    "name": "(PT) Cartoon Network HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9f825ae4-3357-4be8-8bd8-cca6e1d42c69.m3u8"
+  },
+  {
+    "name": "(PT) CaçaVision HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1d93bcf1-3401-4550-929d-2d1976b68665.m3u8"
+  },
+  {
+    "name": "(PT) CMTV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1131b365-55c3-4dde-807a-b3a0b5651ed5.m3u8"
+  },
+  {
+    "name": "(PT) CNN",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/49cd417d-7827-47c2-ad20-a895d951c15e.m3u8"
+  },
+  {
+    "name": "(PT) Discovery Channel HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9bcd64ca-a5bb-495b-b769-f4f74aebc8cf.m3u8"
+  },
+  {
+    "name": "(PT) Disney Channel HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0985a112-b96f-4563-854d-e3f3d17515fc.m3u8"
+  },
+  {
+    "name": "(PT) Disney Júnior HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3ecf1b9d-648b-4e5f-87e8-8f892844f292.m3u8"
+  },
+  {
+    "name": "(PT) E Entertainment",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e2c67c1b-b07a-4cf4-9f27-48c23103c91f.m3u8"
+  },
+  {
+    "name": "(PT) FOX",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3186322d-c304-4c0e-9587-e73ba57e2a8a.m3u8"
+  },
+  {
+    "name": "(PT) Fox HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d22f81fb-7dc7-48e7-a53a-338693d1f6d4.m3u8"
+  },
+  {
+    "name": "(PT) Fox Crime HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/263212d2-779b-432b-a552-ed362611a77c.m3u8"
+  },
+  {
+    "name": "(PT) HBO HD PT",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9a8bf5d1-9781-4167-a40e-0f4e8ff47eb3.m3u8"
+  },
+  {
+    "name": "(PT) Historia HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/093d705a-a958-4e10-86b9-ed320fc67fa3.m3u8"
+  },
+  {
+    "name": "(PT) Investigation Discovery",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ebdba4c3-f8fa-4380-a335-c4431ec349aa.m3u8"
+  },
+  {
+    "name": "(PT) JIM JAM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d7622cbc-549c-41cb-9091-1ef41f8f221d.m3u8"
+  },
+  {
+    "name": "(PT) M6 Music HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0c75d23d-c598-4aae-8fa3-cc8fa5550c63.m3u8"
+  },
+  {
+    "name": "(PT) MCM Pop",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/89b89c9a-788e-4cad-bc43-e38ecd4f5ebc.m3u8"
+  },
+  {
+    "name": "(PT) MTV Portugal HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8d848efc-f770-4dc3-986a-c32080feed27.m3u8"
+  },
+  {
+    "name": "(PT) National Geographic HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e84ac6ec-915a-406c-a1e1-4e1a6d8d13dd.m3u8"
+  },
+  {
+    "name": "(PT) Nick JR HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8a094beb-1be8-4db0-96e9-1ae2f58b4eb9.m3u8"
+  },
+  {
+    "name": "(PT) Nickelodeon HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4e21a6be-5213-4c25-b6f2-beeac72293ef.m3u8"
+  },
+  {
+    "name": "(PT) Odisseia HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/411be359-8e42-4faf-9532-1c8b7c761cad.m3u8"
+  },
+  {
+    "name": "(PT) Panda Biggs",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fbaf7d9a-e210-40c0-96f1-1196b5eca12c.m3u8"
+  },
+  {
+    "name": "(PT) PFC",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0427f365-95f1-45df-944e-5c2a82751847.m3u8"
+  },
+  {
+    "name": "(PT) RTP 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/caa2c651-b424-444f-a86d-d63fea3da52b.m3u8"
+  },
+  {
+    "name": "(PT) RTP Arena",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9fe820cc-3caf-48e5-8b03-845ee6c99e9f.m3u8"
+  },
+  {
+    "name": "(PT) SIC HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a9c00bdf-6748-4149-bd94-6c5d8dfcceb1.m3u8"
+  },
+  {
+    "name": "(PT) SIC Caras HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bb3f8ea0-027e-47dd-83eb-84a1ed9a36a2.m3u8"
+  },
+  {
+    "name": "(PT) SIC Kids HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5a042f96-6bd7-4d21-8868-5872ee74e3f9.m3u8"
+  },
+  {
+    "name": "(PT) SIC Mulher HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/145e4129-2628-404c-a260-6262bcc54655.m3u8"
+  },
+  {
+    "name": "(PT) Sic Noticias HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9a31f164-ab3a-4195-a66f-0b27054bbaa0.m3u8"
+  },
+  {
+    "name": "(PT) SYFY",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0babd965-e263-4f09-abc6-8e1a35e3399e.m3u8"
+  },
+  {
+    "name": "(PT) TVI 24 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cd88c26d-5bd7-44fc-9324-b8e54b69de29.m3u8"
+  },
+  {
+    "name": "(PT) TVI HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cbb2df51-454b-4582-9184-5cc742021ce1.m3u8"
+  },
+  {
+    "name": "(PT) TVI Reality HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3ea21c58-e51a-4157-b2e4-72a3592bd5ed.m3u8"
+  },
+  {
+    "name": "(PT) FOX Movies HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1a89df9e-bbb6-4763-ad76-b0cfed4ca27e.m3u8"
+  },
+  {
+    "name": "(PT) RTP 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/42a0851a-39d0-4c81-9e6f-43dd257f5ae6.m3u8"
+  },
+  {
+    "name": "(PT) RTP 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/85966d7a-c304-4201-b93c-e370cd9c2c6b.m3u8"
+  },
+  {
+    "name": "(PT) RTP Africa HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f203cecc-3769-4a2d-b4b7-6cf5cfe0bd58.m3u8"
+  },
+  {
+    "name": "(PT) AMC HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/722992d7-3257-4130-a9a0-3aa9b5f36b55.m3u8"
+  },
+  {
+    "name": "(PT) Baby TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/eb0b4edf-7ef3-46bf-997c-d49dd893d44f.m3u8"
+  },
+  {
+    "name": "SIC Radical HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0fd12db7-c3a8-4a17-acb3-7f3c798d5ab9.m3u8"
+  },
+  {
+    "name": "(PT) CBS Reality HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9a5ad119-260d-45b3-9769-ec0bffde53ea.m3u8"
+  },
+  {
+    "name": "(PT) TLC HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b876f6db-5b72-4b14-b82c-14eee22c4a16.m3u8"
+  },
+  {
+    "name": "(PT) Mas Chic HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7e8c2e2a-158e-483c-bde3-680db523e19b.m3u8"
+  },
+  {
+    "name": "(PT) Food Network",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/11ef8bd8-eb12-4824-896a-d5a2682325b5.m3u8"
+  },
+  {
+    "name": "(PT) Dog TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0ac1e147-3315-4466-b7b7-e6e49cc36e05.m3u8"
+  },
+  {
+    "name": "(PT) RTP Açores HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/096f80c9-910f-4d6b-ac1d-a0c71446743b.m3u8"
+  },
+  {
+    "name": "(PT) RTP Madeira HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c6f7e5c8-bb9d-49b0-bf6b-d61d6e3c2997.m3u8"
+  },
+  {
+    "name": "(PT) RTP Memoria HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5a0a703f-bdd7-4cb8-bb15-9938754adb4a.m3u8"
+  },
+  {
+    "name": "(PT) NFL Network HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a37c2a48-b8c3-45ca-b808-75cd76c1dd1e.m3u8"
+  },
+  {
+    "name": "(PT) TVI Ficção",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a7d7708d-9e78-49f5-82e4-00a77f172601.m3u8"
+  },
+  {
+    "name": "(PT) Fashion TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/720694ea-4573-4845-9054-0a80249fd7f6.m3u8"
+  },
+  {
+    "name": "(PT) Toros TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fe528661-bdea-4534-8748-d5049f9d2dc8.m3u8"
+  },
+  {
+    "name": "(PT) Ginx HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/eecc2d3a-f4c0-4eb9-8055-cf9c6c8d69d2.m3u8"
+  },
+  {
+    "name": "(PT) VH1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7c608871-3df3-49c9-bfdc-b935dffbdffc.m3u8"
+  },
+  {
+    "name": "(PT) Trace Urban HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/de1d6c42-b799-48f8-8ea2-35bc9f8eddc2.m3u8"
+  },
+  {
+    "name": "(PT) MCM Top",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c19f4505-6db0-4f86-b295-919bfe54f933.m3u8"
+  },
+  {
+    "name": "(PT) Mezzo Live",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1e00b30a-9d21-4bed-bbaa-14414ae67cdb.m3u8"
+  },
+  {
+    "name": "(PT) Zap Viva",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ad667c00-5a6c-4169-b79e-ed22dc845cd3.m3u8"
+  },
+  {
+    "name": "(PT) Tpa International",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/34128bb1-266d-41f8-bffe-449362bcee06.m3u8"
+  },
+  {
+    "name": "(PT) E! Entertainment",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d40d0923-6dff-471f-86ad-d74f7172e537.m3u8"
+  },
+  {
+    "name": "(PT) Nat Geo Wild HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4691e381-304b-4d8e-bf86-f4ff3360a3bd.m3u8"
+  },
+  {
+    "name": "PT: TV Zimbo",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3a5076bc-c8bc-4332-8eb3-ae4bdc82f3b3.m3u8"
+  },
+  {
+    "name": "(PT) Sport TV + HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/34ebc8b9-b2e8-40a4-9cb4-45f688299e10.m3u8"
+  },
+  {
+    "name": "(PT) Sport TV 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/03e3f990-364a-45a2-92d1-d65175eebe4c.m3u8"
+  },
+  {
+    "name": "(PT) Sport TV 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0b5c64a0-e81c-4463-9714-692320102634.m3u8"
+  },
+  {
+    "name": "(PT) Sport TV 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/99d29269-895b-4891-a86b-6e7a72c8d59a.m3u8"
+  },
+  {
+    "name": "(PT) Sport TV 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/dc31782f-025f-4af8-a03f-dfbc6deda07a.m3u8"
+  },
+  {
+    "name": "(PT) Sport TV 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/10332c76-db2f-409a-9666-17b328798eb3.m3u8"
+  },
+  {
+    "name": "(PT) Sport TV 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/04cd85c8-3346-455f-aa29-d3403a054eea.m3u8"
+  },
+  {
+    "name": "(PT) Sport TV NBA HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/077abc85-56c2-4f66-ba5d-542882f93bed.m3u8"
+  },
+  {
+    "name": "(PT) F1 Oficial",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/df0aaa2c-e960-4c10-937e-ce60bc05c959.m3u8"
+  },
+  {
+    "name": "(PT) Motorvision TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1dd9454a-7b66-478a-a43f-c50a4e33a8e9.m3u8"
+  },
+  {
+    "name": "(PT) Fuel TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d1e7a89f-89ed-4ba5-bee0-c660c960bae6.m3u8"
+  },
+  {
+    "name": "(PT) Benfica TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5698e119-356b-4469-826b-59e62dab26fe.m3u8"
+  },
+  {
+    "name": "(PT) BTV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8428054d-5f1b-429f-b8ed-7e64ff31c5e1.m3u8"
+  },
+  {
+    "name": "(PT) Sporting TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8a353e39-c7f4-4129-b411-f50af52494e9.m3u8"
+  },
+  {
+    "name": "(PT) A Bola TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/38ec060a-d0aa-441d-9b99-67da67c6fc50.m3u8"
+  },
+  {
+    "name": "Canal 11 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/70482a22-e8cf-4e76-928b-e733269dd380.m3u8"
+  },
+  {
+    "name": "(PT) Eleven Sports 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e140ddbc-ab19-462b-8cd8-7fb02bacd61e.m3u8"
+  },
+  {
+    "name": "(PT) Eleven Sports 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f4b4ae76-fa1a-4677-896f-c8a40a3ca5a2.m3u8"
+  },
+  {
+    "name": "(PT) Eleven Sports 3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b1f23ab3-bbb2-4ccf-b6ac-448f3a1978ca.m3u8"
+  },
+  {
+    "name": "(PT) Eleven Sports 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/014ac8ba-e4fd-4a4d-a32f-9676ba5528ff.m3u8"
+  },
+  {
+    "name": "(PT) Eleven Sports 5 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/57ad4aa5-e5eb-4517-b59e-e0cf7c8bc9cb.m3u8"
+  },
+  {
+    "name": "(PT) Eleven Sports 6 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/57007295-fa86-4fc6-8cd4-e682ebf3dee3.m3u8"
+  },
+  {
+    "name": "(PT) Combate HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7a65c4c6-1453-4472-a7dc-bc442b0cde52.m3u8"
+  },
+  {
+    "name": "(PT) Eurosport  1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0540261f-cd94-4edf-b8cf-06529e03587f.m3u8"
+  },
+  {
+    "name": "(PT) Eurosport 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/75731e4d-6bff-4110-9932-194f9fb56439.m3u8"
+  },
+  {
+    "name": "ITV HD +",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ed31bfd9-2085-4894-a83e-cf546bdcdb68.m3u8"
+  },
+  {
+    "name": "ITV2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1f06b1e8-f8d2-429a-95b0-3eb9c3a90d59.m3u8"
+  },
+  {
+    "name": "ITV3 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/dd46af37-6b14-415d-a7d5-285c453b3b80.m3u8"
+  },
+  {
+    "name": "ITV4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5e800100-9e33-4136-bc08-ccb6d4de11bf.m3u8"
+  },
+  {
+    "name": "Channel 4",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fcf19181-4c41-4811-9619-4380df85dbab.m3u8"
+  },
+  {
+    "name": "CBBC HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/27b7212f-6578-485f-b4a3-068866a0c784.m3u8"
+  },
+  {
+    "name": "(USA) FOX Atlanta",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/627056c9-40c2-452f-90b3-5b95ddd85fd0.m3u8"
+  },
+  {
+    "name": "(USA) FOX Business Network",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7de44fe5-344f-4515-9b0f-185bdc7f70a0.m3u8"
+  },
+  {
+    "name": "(USA) FOX HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/726de523-2863-4ddc-b006-1c925b64d693.m3u8"
+  },
+  {
+    "name": "(USA) FOX CHICAGO",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7e6250dd-3db9-4525-8dcc-d40910f054e4.m3u8"
+  },
+  {
+    "name": "(USA) FOX LOS ANGELES",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3fa56a19-d9c6-427c-984c-32c2bc1961ae.m3u8"
+  },
+  {
+    "name": "(USA) FOX MIAMI",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b5a24419-32ca-4776-a986-fcc218571cbb.m3u8"
+  },
+  {
+    "name": "(USA) FOX ORLANDO",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/63ddecae-0bbb-447c-884c-ebfe4569d973.m3u8"
+  },
+  {
+    "name": "(USA) FOX PHOENIX",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9798e4cb-9995-4da5-a7c3-34a318f72613.m3u8"
+  },
+  {
+    "name": "(USA) FOX SPORTS 1 US",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/08794056-4a28-4c81-8826-5ad9f3eaf9eb.m3u8"
+  },
+  {
+    "name": "(USA) FOX SPORTS 2 US",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c5a04535-a409-4094-9005-235f41425598.m3u8"
+  },
+  {
+    "name": "(USA) FOX Sports Arizona",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8dc1e1c1-90d5-4866-98ef-83604f8d9ed8.m3u8"
+  },
+  {
+    "name": "(USA) FOX Sports Detroid",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3abd82ce-c718-48f1-84c7-334457e5bcc1.m3u8"
+  },
+  {
+    "name": "(USA) FOX Sports Florida",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1c5f3b3a-f900-4da8-89bf-900f3f073e48.m3u8"
+  },
+  {
+    "name": "(USA) FOX SPORTS OHIO",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bd14e131-f790-4df5-930f-b26014d35248.m3u8"
+  },
+  {
+    "name": "(USA) FOX SPORTS OKLAHOMA",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e6fd82ef-6083-4aa8-a842-0c6076f38969.m3u8"
+  },
+  {
+    "name": "(USA) FOX Sports San Diego",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9203b5fd-204e-4841-bbca-bddd5c0c87da.m3u8"
+  },
+  {
+    "name": "(USA) FOX Sports Soccer Plus",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/08364f4d-9cb9-4c5c-a5ac-e31d2d49c861.m3u8"
+  },
+  {
+    "name": "(USA) FOX SPORTS SOUTH",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5f5084d7-b528-4cfb-95ea-dfd1e6afc5fb.m3u8"
+  },
+  {
+    "name": "(USA) FOX SPORTS SUN",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f9d371ee-9fe2-4dcc-931f-6f859a470148.m3u8"
+  },
+  {
+    "name": "(USA) FOX SPORTS WEST",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/49fa8a75-4ebf-40e9-85d1-5c60a376d940.m3u8"
+  },
+  {
+    "name": "(USA) Freeform",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/74c72f97-c788-428e-92de-95e0a651617a.m3u8"
+  },
+  {
+    "name": "(USA) Fuse",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5b63e54f-521e-44ec-a981-539db57c0b81.m3u8"
+  },
+  {
+    "name": "(USA) FX US",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8892233f-050a-4b59-b511-f37e347e60e7.m3u8"
+  },
+  {
+    "name": "(USA) FXM",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/02b51802-c468-46c3-b027-628230b75dbf.m3u8"
+  },
+  {
+    "name": "(USA) FXX",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f7ab3217-87c4-4279-ba69-1f21a072fa1c.m3u8"
+  },
+  {
+    "name": "(USA) FYI",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e48b01b8-f44a-49b1-9dda-316a0e50cade.m3u8"
+  },
+  {
+    "name": "(USA) USL - BBC America HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7eb2958c-479b-4701-b05a-54652c5aaaec.m3u8"
+  },
+  {
+    "name": "(USA) USL- BBC World NewsHD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/aead6ad3-55c3-42f9-aeec-ba6214d149f9.m3u8"
+  },
+  {
+    "name": "(USA) USL- Food Network HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8980e4a6-629e-4553-8022-7db4d912227a.m3u8"
+  },
+  {
+    "name": "(USA) USL- FOX Sports Prime Ticket HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/32246a16-f69c-40fb-a76d-46a0fb73735c.m3u8"
+  },
+  {
+    "name": "(USA) USL- FOX Sports San Antonio HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2b994c20-db67-4c32-9cee-46113c528c95.m3u8"
+  },
+  {
+    "name": "(USA) USL- FUSION HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b83f6f26-f77f-4a29-9533-4047fa2ba90f.m3u8"
+  },
+  {
+    "name": "(USA) CNBC",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/68fe97e7-86d9-4505-8dca-ed42a2e41d00.m3u8"
+  },
+  {
+    "name": "(USA) Tennis Channel HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1f3059e1-fd4f-462c-a0e4-88281dd61ec0.m3u8"
+  },
+  {
+    "name": "(USA) Bloomberg",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7f81ae00-dbc0-45ba-8e17-fe5da0fea810.m3u8"
+  },
+  {
+    "name": "(USA) Travel Channel",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e440a104-fe8e-451b-9eb7-2da745a57ebc.m3u8"
+  },
+  {
+    "name": "(USA) A&E HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/07553b7d-cf9d-4268-83ab-2fc0547ef677.m3u8"
+  },
+  {
+    "name": "(USA) ABC News HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/961581fe-b29a-4fdb-b6ac-99fdb16f630e.m3u8"
+  },
+  {
+    "name": "(USA) ABC HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/dbd4cded-7528-4fa8-81fc-65f2c7480279.m3u8"
+  },
+  {
+    "name": "(USA) AMC HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9874aa59-cfc1-4619-976a-f89515dcbe1c.m3u8"
+  },
+  {
+    "name": "(USA) Animal Planet HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0dbf4791-7a99-4123-83ea-2faa53108278.m3u8"
+  },
+  {
+    "name": "(USA) Baby TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bb5dc24d-555f-4a7e-b3d4-65a114e4d22f.m3u8"
+  },
+  {
+    "name": "(USA) Cartoonito HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9885bbeb-01ae-4cbc-a4a6-d582ff453d63.m3u8"
+  },
+  {
+    "name": "(USA) CBS HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e5a1538b-d5a8-4a7a-9eeb-0e0abcd1e0f4.m3u8"
+  },
+  {
+    "name": "(USA) Cinemax Action Max HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7022e0f3-322d-4def-b84b-9884ea30adc0.m3u8"
+  },
+  {
+    "name": "(USA) Cinemax HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e2b6f6df-b44b-43ee-91ec-628d4d267f4d.m3u8"
+  },
+  {
+    "name": "(USA) Discovery Family HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7e8dba8a-2817-4a71-841d-ec023aafc399.m3u8"
+  },
+  {
+    "name": "(USA) Discovery Investigation HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2370a5bc-7330-4a82-8145-4c254945fc7d.m3u8"
+  },
+  {
+    "name": "(USA) Discovery Life HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/49f4ae3a-f333-423d-9d99-65e4c98d4fac.m3u8"
+  },
+  {
+    "name": "(USA) Disney JR HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/4e15da9d-907b-4d41-aa80-cacfc9beb778.m3u8"
+  },
+  {
+    "name": "(USA) Disney XD HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/025bb476-5454-4be2-a004-67e4c2542017.m3u8"
+  },
+  {
+    "name": "(USA) E! Entertainment HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/458bfeec-ac47-4c23-bf68-1963c5a4a69b.m3u8"
+  },
+  {
+    "name": "(USA) Espn HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d54108b7-ea1d-473f-8071-b66c251197c7.m3u8"
+  },
+  {
+    "name": "(USA) Espn 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/970b5543-a3e9-4d31-ae8d-2964622e9534.m3u8"
+  },
+  {
+    "name": "(USA) Golf HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bebcb2c5-301d-4fe6-abaa-de83d87acb05.m3u8"
+  },
+  {
+    "name": "(USA) Hallmark Channel HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8c2691fd-f07a-4c27-aec7-417cbfb44670.m3u8"
+  },
+  {
+    "name": "(USA) H2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8cd98fbb-4565-46d1-a38a-a51c778ca823.m3u8"
+  },
+  {
+    "name": "(USA) HBO HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/0c3ada33-5edf-45de-9ff3-74d4b13f7dde.m3u8"
+  },
+  {
+    "name": "(USA) HBO 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/891bde36-f1bd-4a42-bb80-ea638b548436.m3u8"
+  },
+  {
+    "name": "(USA) HBO Family HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f1501de0-e9e7-4080-9c9a-0cf4fbc84aa2.m3u8"
+  },
+  {
+    "name": "(USA) HGTV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5f5cfe55-0e0c-446d-9638-98a4b249a3a0.m3u8"
+  },
+  {
+    "name": "(USA) History HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fc54e937-e32d-462e-adbd-3980aa4b143b.m3u8"
+  },
+  {
+    "name": "(USA) Lifetime HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/826da912-9922-41fa-a1d1-185fc62899af.m3u8"
+  },
+  {
+    "name": "(USA) MTV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/171c05bd-2952-40cf-bf74-6278ae7b6975.m3u8"
+  },
+  {
+    "name": "(USA) NAT GEO HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/982b1203-590c-4e3d-8d78-7aef92a386d7.m3u8"
+  },
+  {
+    "name": "(USA) NatGeo Wild HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/36c284c4-eb8e-43ea-bfee-25e7cd0ced12.m3u8"
+  },
+  {
+    "name": "(USA) Nickelodeon HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f6a674c9-d297-4dfe-ba4b-5d7535955f86.m3u8"
+  },
+  {
+    "name": "(USA) PBS Kids HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b344e335-b50a-409e-8dcc-ab8db67a25ca.m3u8"
+  },
+  {
+    "name": "(USA) TLC HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/fc6d7b41-f0b9-4b75-bfdb-3b921890daa8.m3u8"
+  },
+  {
+    "name": "(USA) TNT HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/30536b0c-61dc-4051-9f45-2b6d96a36c61.m3u8"
+  },
+  {
+    "name": "(USA) Universal Kids HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/14c260d6-bab4-4483-99f7-5f8decaf408d.m3u8"
+  },
+  {
+    "name": "(USA) Starz Family HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9babd091-2708-4112-90a7-25a7aaf43a43.m3u8"
+  },
+  {
+    "name": "(USA) Starz Cinema HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/219d9da5-bd1a-47f1-805f-98ac415ef4ff.m3u8"
+  },
+  {
+    "name": "(USA) Starz Encore Black HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9b9bc77d-e72e-42e3-84ff-69d4ad075cd9.m3u8"
+  },
+  {
+    "name": "(USA) FOX News HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a8e56624-82d4-45b4-b684-6a22115d17e1.m3u8"
+  },
+  {
+    "name": "(USA) Love Nature HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/38cb4245-b7cf-4e21-84b1-406779583141.m3u8"
+  },
+  {
+    "name": "(USA) WWE",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/56d691ff-63aa-4b08-8516-2bf53ee75d6e.m3u8"
+  },
+  {
+    "name": "(IT) Italia 1",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b2994792-8657-495f-a5b2-b055c66ab9dc.m3u8"
+  },
+  {
+    "name": "(IT) Rai 1",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d8e639bc-5748-4c90-a903-ba2ea51d62b1.m3u8"
+  },
+  {
+    "name": "(IT) Rai 2",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a46c4120-8151-49ee-ac96-29c9b20614f7.m3u8"
+  },
+  {
+    "name": "(IT) Rai 3",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c9d32729-7b77-4f93-a1c8-f9a3a0b9eaa4.m3u8"
+  },
+  {
+    "name": "(IT) Rai 5",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/eaee3d2d-1cf2-40b5-b428-2153beca7fcc.m3u8"
+  },
+  {
+    "name": "(IT) Rai Gulp",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/73e030a8-3c82-4eeb-90a0-64cab0e44455.m3u8"
+  },
+  {
+    "name": "(IT) Rai Sport+",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/81bef7c2-5d9e-49fd-b629-f6f1552c1417.m3u8"
+  },
+  {
+    "name": "(IT) SKY 1",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/75e23dbe-c418-49b6-819d-a4a1e6d6ab23.m3u8"
+  },
+  {
+    "name": "(IT) SKY Cinema Action",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/50eb3569-b6e7-49e8-aaaf-7c2838de5c81.m3u8"
+  },
+  {
+    "name": "(IT) SKY Cinema Drama",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/055d8776-132d-4f0b-aa5a-d5481e1b6af4.m3u8"
+  },
+  {
+    "name": "(IT) SKY Cinema Family",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1f6bfdd1-52f0-4d3b-850b-3baf96cf5878.m3u8"
+  },
+  {
+    "name": "(IT) Canale 5",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/74ac0bc4-f159-4c23-bcef-13c8f53e2e68.m3u8"
+  },
+  {
+    "name": "(IT) Sport Italia",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3c4b90b5-e690-4750-91c4-74b796dee9c0.m3u8"
+  },
+  {
+    "name": "(IT) LA7D",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5dffc2a3-a84e-44a6-bdc9-6995c2d46c73.m3u8"
+  },
+  {
+    "name": "(IT) Mediaset Extra HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e6b1fee9-e4be-4787-9ab5-c528db9336cb.m3u8"
+  },
+  {
+    "name": "(IT) Super Tennis HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/202df1c9-5d82-4ae4-8cdb-5f2df1f24667.m3u8"
+  },
+  {
+    "name": "(IT) Rai 4",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/968551b2-11a9-49cc-b35c-b0aae7f98f33.m3u8"
+  },
+  {
+    "name": "URU - Canal 4  Salto HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2abaee31-f5dd-47f7-8ef2-b9a801010ceb.m3u8"
+  },
+  {
+    "name": "URU - Canal 4 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/7b815b8e-5bfb-4af1-ab93-d78598572ea4.m3u8"
+  },
+  {
+    "name": "URU - Canal 10 Saeta HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/cefc366e-870d-46e4-8969-cd1ccddbbc9b.m3u8"
+  },
+  {
+    "name": "URU - Canal 12 Local",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c2c4a3cc-7a67-4bc2-bd8f-fa86864eb067.m3u8"
+  },
+  {
+    "name": "URU - Canal 12 melo HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/af51a4ab-4100-4e07-8b6f-8fbd3567b28e.m3u8"
+  },
+  {
+    "name": "URU - La Tele HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/ea736408-2ee4-4233-a556-e7b1166de4bf.m3u8"
+  },
+  {
+    "name": "URU - Vera Tv HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/20006d11-2fa2-4c33-85ba-a874161ddf20.m3u8"
+  },
+  {
+    "name": "URU - A + V HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/80d05f81-b353-493c-9fca-f2ed2321f38e.m3u8"
+  },
+  {
+    "name": "URU - Vtv HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/64446d18-9cc6-4646-b77c-99ee3fd6dac0.m3u8"
+  },
+  {
+    "name": "URU - Vtv Plus HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/2893ee54-c90a-41bb-a9d4-9afbb6fafdca.m3u8"
+  },
+  {
+    "name": "URU - Directv Sports",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a4b474cf-1695-430c-b024-36b5fb326249.m3u8"
+  },
+  {
+    "name": "(UY) Canal 4 Monte Carlo HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/57847404-1a87-4b5b-9b11-dcea6b68c7ab.m3u8"
+  },
+  {
+    "name": "(UY)A+V Canal",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9fcc649a-02dc-439a-a63c-e9695b688723.m3u8"
+  },
+  {
+    "name": "URU - Canal 7",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5ed9b475-7587-4e50-8b37-aed367df9036.m3u8"
+  },
+  {
+    "name": "(UY) Canal 12 Teledoce HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/b161a84c-9fd8-4b8e-8a76-afc807fb2706.m3u8"
+  },
+  {
+    "name": "Snt Canal 9",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/54c08096-d530-41ca-a94f-7fff6641a251.m3u8"
+  },
+  {
+    "name": "(UY) Canal 10 Saeta TV HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/92eb5470-30c3-464b-8a9d-c8214225ab59.m3u8"
+  },
+  {
+    "name": "(PY) Unicanal HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3e8f9c8d-1843-43ad-b474-0989090b1e05.m3u8"
+  },
+  {
+    "name": "(PY) Tigo Sports 1 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c68e04aa-e99d-4f35-bfe0-36d3500e12a6.m3u8"
+  },
+  {
+    "name": "(PY) Tigo Sports 2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8d5baba6-eb94-4473-a5bc-ac6f3c4b01ba.m3u8"
+  },
+  {
+    "name": "(PY) Telefuturo HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/c46233e7-0b93-497b-a133-f14838f8c01d.m3u8"
+  },
+  {
+    "name": "(PY) Sur Tv HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/1dfeca89-1cc8-4fcb-bd3b-1a0c970fb9ac.m3u8"
+  },
+  {
+    "name": "(PY) La Tele HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f7fb25b2-c847-4ddb-8709-1aa70d94d566.m3u8"
+  },
+  {
+    "name": "(LAT) National Geographic HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/9d3e75f3-0364-4efc-8e7c-4d1f2f86f1ea.m3u8"
+  },
+  {
+    "name": "(LAT) NatGeo Wild HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/f4915b4f-23bd-4e88-b097-31a64fc9d70c.m3u8"
+  },
+  {
+    "name": "(LAT) History HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8a297a2c-2651-47d5-a5df-f783f0d293da.m3u8"
+  },
+  {
+    "name": "(LAT) H2 HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/873019db-6b6d-4273-8c2c-f53f94f26d27.m3u8"
+  },
+  {
+    "name": "(LAT) DISCOVERY TLC HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/bcfc2161-f8cb-4474-a88c-5342d1eef990.m3u8"
+  },
+  {
+    "name": "(LAT) Discovery World HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/e242cc7f-5bd5-4b32-8852-9abadd88a775.m3u8"
+  },
+  {
+    "name": "(LAT) Discovery Turbo HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/84f92196-135a-4f9e-a73a-25439bcd9e86.m3u8"
+  },
+  {
+    "name": "(LAT) Discovery Theater HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/daa1c7ed-61e7-4268-8090-5a5ab4acd9bb.m3u8"
+  },
+  {
+    "name": "(LAT) Discovery Science HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/5bebe140-fb2e-459b-9d93-9d17e136a336.m3u8"
+  },
+  {
+    "name": "(LAT) Discovery H&H HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/d4e030ff-5288-48fa-be68-aa473677c89a.m3u8"
+  },
+  {
+    "name": "(LAT) Discovery Familia HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/8ad6cf01-bddc-479b-a755-59244741464a.m3u8"
+  },
+  {
+    "name": "(LAT) Discovery Channel HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/a4476186-f1b3-4bda-9b55-eeea6871066e.m3u8"
+  },
+  {
+    "name": "(LAT) Animal Planet HD",
+    "url": "http://popzed.sbs:80/live/902374794/430646183/3a504e09-d4ab-4a1c-8094-5f5ec14a69ec.m3u8"
+  }
+]
    ]
