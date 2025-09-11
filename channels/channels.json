@@ -1,5 +1,5 @@
 [
-     {"name": "AztecaUno.mx", "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"},
+    {"name": "AztecaUno.mx", "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"},
     {"name": "ADN 40", "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"},
     {"name": "A+", "url": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8"},
     {"name": "Azteca 7", "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"},
@@ -21,7 +21,21 @@
     {"name": "Neo TV", "url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8"},
     {"name": "Neox TV", "url": "https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8"},
     {"name": "Austral TV", "url": "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8"},
+    {"name": "Cine Terror", "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"},
+    {"name": "Cinecanal", "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8"},
+    {"name": "EnerGeek", "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"},
+    {"name": "History2", "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"},
+    {"name": "Infinita TV", "url": "https://s2.tvdatta.com:3753/hybrid/play.m3u8"},
+    {"name": "National Geographic", "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"},
+    {"name": "Plus TV", "url": "https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"},
+    {"name": "TVMas", "url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8"},
+    {"name": "TeleFormula", "url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8"},
+    {"name": "Farovisión", "url": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8"},
+    {"name": "Nick en Espanol", "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988"},
+    {"name": "atacama", "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8"},
+
     {"name": "Cine Adrenalina", "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId="},
     {"name": "Cine Premiere", "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"}
+
 ]
    
