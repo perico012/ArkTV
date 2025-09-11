@@ -20,8 +20,8 @@
     {"name": "Planeta TV", "url": "https://live.obslivestream.com/planetatv/index.m3u8"},
     {"name": "Neo TV", "url": "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8"},
     {"name": "Neox TV", "url": "https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8"},
-    
-    {"name": "Aurora Media Films", "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"},
-    {"name": "AMC en Español", "url": "https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8"}
+    {"name": "Austral TV", "url": "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8"},
+    {"name": "Cine Adrenalina", "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId="},
+    {"name": "Cine Premiere", "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"}
 ]
    
