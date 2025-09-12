@@ -52,12 +52,10 @@
     {"name": "AMC", "url": "https://d38fxgxhpllpfu.cloudfront.net/playlist.m3u8"},
     {"name": "Autentica", "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8"},
     {"name": "AXN", "url": "http://190.83.2.172:8081/play/a06t/index.m3u8"},
-    {"name": "Bein Sports", "url": "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8"},
-
+    
   
     {"name": "Golden Latinoamérica", "url": "https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8"},
-    {"name": "Autentica", "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8"},
-    {"name": "AXN", "url": "http://190.83.2.172:8081/play/a06t/index.m3u8"},
+    
     {"name": "Bein Sports", "url": "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8"}
 
 ]
