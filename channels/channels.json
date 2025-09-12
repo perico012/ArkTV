@@ -1,5 +1,5 @@
 [
-    {"name": "AztecaUno.mx", "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"},
+     {"name": "AztecaUno.mx", "url": "https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"},
     {"name": "ADN 40", "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"},
     {"name": "A+", "url": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8"},
     {"name": "Azteca 7", "url": "https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"},
@@ -32,10 +32,28 @@
     {"name": "TeleFormula", "url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8"},
     {"name": "Farovisión", "url": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8"},
     {"name": "Nick en Espanol", "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988"},
-    {"name": "atacama", "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8"},
+    {"name": "Atacama", "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8"},
 
     {"name": "Cine Adrenalina", "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId="},
     {"name": "Cine Premiere", "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"}
+
+    {"name": "Exitosa", "url": "https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8"},
+    {"name": "Aurora", "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8"},
+    {"name": "Zurqui", "url": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"},
+    {"name": "Crom TV", "url": "https://cnn.essastream.com:3333/live/cromtvlive.m3u8"},
+    {"name": "Imagen Universal", "url": "https://imagenuniversaltv.net:3771/live/iutvlive.m3u8"},
+    {"name": "Impacto", "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"},
+    {"name": "Cosmos", "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"},
+    {"name": "Nativa", "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"},
+    {"name": "MyTime MX", "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"},
+    {"name": "Super Channel", "url": "https://servilive.com:3263/live/channel12live.m3u8"},
+     {"name": "14", "url": "https://s5.mexside.net:1936/canal14/canal14/.m3u8"},
+    {"name": "Accion Runtime ESP ", "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550"},
+    {"name": "Accion Runtime MX", "url": "https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8"},
+    {"name": "AMC", "url": "https://d38fxgxhpllpfu.cloudfront.net/playlist.m3u8"},
+    {"name": "Autentica", "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8"},
+    {"name": "AXN", "url": "http://190.83.2.172:8081/play/a06t/index.m3u8"},
+    {"name": "Bein Sports", "url": "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8"}
 
 ]
    
