@@ -54,8 +54,8 @@
     {"name": "AXN", "url": "http://190.83.2.172:8081/play/a06t/index.m3u8"},
     {"name": "Bein Sports", "url": "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8"},
 
-     {"name": "TV Perú", "url": "https://cdnhd.peru.com/hls/tvperu.m3u8"},
-  {"name": "Canal 22 México", "url": "https://canal22.mx/live.m3u8"},
+   {"name": "TV Perú", "url": "https://cdnhd.peru.com/hls/tvperu.m3u8"},
+   {"name": "Canal 22 México", "url": "https://canal22.mx/live.m3u8"},
   {"name": "Televisión Pública Argentina", "url": "https://tvargentina.com/live.m3u8"},
   {"name": "Canal RCN Colombia", "url": "https://rcn.com/live.m3u8"},
   {"name": "Caracol TV Colombia", "url": "https://caracoltv.com/live.m3u8"},
