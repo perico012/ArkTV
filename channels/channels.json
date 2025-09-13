@@ -44,9 +44,9 @@
     {"name": "Impacto", "url": "https://cloudvideo.servers10.com:8081/impactotv/index.m3u8"},
     {"name": "Cosmos", "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8"},
     {"name": "Nativa", "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"},
-    {"name": "MyTime MX", "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"},
+    
     {"name": "Super Channel", "url": "https://servilive.com:3263/live/channel12live.m3u8"},
-     {"name": "14", "url": "https://s5.mexside.net:1936/canal14/canal14/.m3u8"},
+    {"name": "14", "url": "https://s5.mexside.net:1936/canal14/canal14/.m3u8"},
     {"name": "Accion Runtime ESP ", "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550"},
     {"name": "Accion Runtime MX", "url": "https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8"},
     {"name": "AMC", "url": "https://d38fxgxhpllpfu.cloudfront.net/playlist.m3u8"},
@@ -61,7 +61,45 @@
     {"name": "Kanade TV", "url": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL"},
     {"name": "Locomotion", "url": "http://85.239.54.197:81/live/loco_hi/index.m3u8?PlaylistM3UCL"},
     {"name": "VariedTV", "url": "https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8?PlaylistM3UCL"},
-    {"name": "ZTV Anime", "url": "https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL"}
+   
+    
+    {"name": "AMC", "url": "http://181.78.4.250:8098/play/a07m/index.m3u8"},
+    {"name": "AXN", "url": "http://181.78.4.250:8098/play/a08p/index.m3u8"},
+    {"name": "USA", "url": "http://181.78.4.250:8098/play/a05q/index.m3u8"},
+    {"name": "Cinemax", "url": "http://181.78.4.250:8098/play/a07o/index.m3u8"},
+    {"name": "TNT", "url": "http://181.78.4.250:8098/play/a03g/index.m3u8"},
+    {"name": "TNT Series", "url": "http://181.78.4.250:8098/play/a06l/index.m3u8"},
+    {"name": "TNT Novelas", "url": "http://181.78.4.250:8098/play/a08m/index.m3u8"},
+    {"name": "MyTime MX", "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8"},
+    {"name": "TLC", "url": "http://181.78.4.250:8098/play/a08z/index.m3u8"},
+    {"name": "Lifetime", "url": "http://181.78.4.250:8098/play/a091/index.m3u8"},
+       
+    {"name": "MTV", "url": "http://181.78.4.250:8098/play/a074/index.m3u8"},
+    {"name": "History", "url": "http://181.78.4.250:8098/play/a08w/index.m3u8"},
+    {"name": "A&E", "url": "http://181.78.4.250:8098/play/a05w/index.m3u8"},
+    {"name": "Discovery ID", "url": "http://181.78.4.250:8098/play/a08x/index.m3u8"},
+    {"name": "Food Network", "url": "http://181.78.4.250:8098/play/a092/index.m3u8"},
+    {"name": "FX", "url": "http://181.78.4.250:8098/play/a060/index.m3u8"},
+    {"name": "Discovery Channel", "url": "http://181.78.4.250:8098/play/a06p/index.m3u8"},
+ 
+    {"name": "Comedy Central", "url": "http://181.78.4.250:8098/play/a073/index.m3u8"},
+    {"name": "Home and Health", "url": "http://181.78.4.250:8098/play/a07c/index.m3u8"},
+    {"name": "Discovery Science", "url": "http://181.78.4.250:8098/play/a090/index.m3u8"},
+    {"name": "Star Channel", "url": "http://181.78.4.250:8098/play/a061/index.m3u8"},
+    {"name": "Paramount Network", "url": "http://181.78.4.250:8098/play/a079/index.m3u8"},
+    {"name": "Animal Planet", "url": "http://181.78.4.250:8098/play/a08v/index.m3u8"},
+    {"name": "Cartoon Network", "url": "http://181.78.4.250:8098/play/a08u/index.m3u8"},
+ 
+    {"name": "Cartoonito", "url": "http://181.78.4.250:8098/play/a067/index.m3u8"},
+    {"name": "Discovery Kids", "url": "http://181.78.4.250:8098/play/a08h/index.m3u8"},
+    {"name": "Nickelodeon", "url": "http://181.78.4.250:8098/play/a03t/index.m3u8"},
+    {"name": "Nick Jr", "url": "http://181.78.4.250:8098/play/a08y/index.m3u8"},
+    {"name": "Food Network", "url": "http://181.78.4.250:8098/play/a092/index.m3u8"},
+    {"name": "FX", "url": "http://181.78.4.250:8098/play/a060/index.m3u8"},
+    {"name": "Discovery Channel", "url": "http://181.78.4.250:8098/play/a06p/index.m3u8"},
+
+
+   {"name": "ZTV Anime", "url": "https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL"}
 
 ]
    
