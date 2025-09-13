@@ -99,7 +99,7 @@
     {"name": "Discovery Channel", "url": "http://181.78.4.250:8098/play/a06p/index.m3u8"},
     {"name": "ZTV Anime", "url": "https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL"},
 
-   {"name": "Antena Uno RadioVideo (360p)", "url": "https://tvdatta.com:3578/live/antenaunolive.m3u8"},
+   
   {"name": "Austral TV (1080p)", "url": "https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8"},
   {"name": "BabyFirst Spanish", "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8"},
   {"name": "CGTN Español (1080p)", "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"},
@@ -128,7 +128,7 @@
   {"name": "Garage TV Latin America", "url": "https://stream1.sersat.com/hls/garagetv.m3u8"},
   {"name": "History 2 Latin America", "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"},
   {"name": "HTV", "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8"},
-  {"name": "IeanJesus Ecuador (720p)", "url": "https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8"},
+  
   {"name": "Infinita TV (1080p)", "url": "https://s2.tvdatta.com:3753/hybrid/play.m3u8"},
   {"name": "Investiga", "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8"},
   {"name": "Kanade (1080p)", "url": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH"},
